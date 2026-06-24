@@ -49,28 +49,46 @@
     "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=64d4f31082",
     "feeds": [
       {
-        "id": "a8acbefc-ad98-4f5b-a6bf-adf81887c375",
+        "id": "1983a718-8bb6-44db-adc2-151433cf5818",
         "sourceId": "3abe0c52-2f59-4047-bc38-6c71c3b12556",
         "label": "TRC Spainish Hd - All Devices",
         "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=64d4f31082"
       },
       {
-        "id": "082d41eb-9cca-4e4b-9616-b75ce1d585cf",
+        "id": "a22dc531-9fb3-4969-ad18-f9b0cf0f21d1",
         "sourceId": "2cc76bf9-70c6-4976-9cab-2721ea51d9f0",
         "label": "Fox Sports All Device",
         "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=91eb8f77df"
       },
       {
-        "id": "252d7a51-0682-4530-950e-f2e67da71921",
+        "id": "c1df2fe7-c0eb-4172-90d3-e3ef92c8b667",
         "sourceId": null,
         "label": "All Device",
         "embedUrl": "https://embedindia.st/embed/wc/2026-06-24/sco-bra"
       },
       {
-        "id": "e9907d00-35f5-4d5f-9675-e5159dd0021d",
+        "id": "90512ce5-ac45-41f2-a5c0-06a84bd98734",
         "sourceId": null,
         "label": "DSports AR (60FPS)",
         "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=b199f59696"
+      },
+      {
+        "id": "89cc5fdc-cc5d-40f5-8ed8-13456dfab8b9",
+        "sourceId": "ee1acaa1-c771-4a0b-8f93-37d72accc41d",
+        "label": "CazeTv Brasil Hd",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=bd2306dafc"
+      },
+      {
+        "id": "79033683-37d2-4c8e-8a0a-4b3b2a274b5a",
+        "sourceId": "3abe0c52-2f59-4047-bc38-6c71c3b12556",
+        "label": "TRC Spainish Hd - All Devices",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=64d4f31082"
+      },
+      {
+        "id": "ddedd6c3-26ba-43d5-94ef-0ed6a256c496",
+        "sourceId": "b883e00d-d7ef-489e-a8aa-b5aeb5c73806",
+        "label": "Tsn Sports 1 Hd [Use Any Vpn]",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=022f934f7f"
       }
     ]
   },
