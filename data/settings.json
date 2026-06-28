@@ -7,8 +7,8 @@
   "footerSignature": "Made with love by 🇷🇺.",
   "footerDmca": "Novo-Ogaryovo, Odintsovsky District, Moscow Oblast, Russia",
   "adsEnabled": true,
-  "showBannerAd": true,
+  "showBannerAd": false,
   "showPopunderAd": true,
-  "showSocialBarAd": true,
+  "showSocialBarAd": false,
   "showDirectAd": true
 }
