@@ -8,7 +8,7 @@
   "footerDmca": "Novo-Ogaryovo, Odintsovsky District, Moscow Oblast, Russia",
   "adsEnabled": true,
   "showBannerAd": true,
-  "showPopunderAd": false,
-  "showSocialBarAd": false,
-  "showDirectAd": false
+  "showPopunderAd": true,
+  "showSocialBarAd": true,
+  "showDirectAd": true
 }
