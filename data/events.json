@@ -63,6 +63,25 @@
     ]
   },
   {
+    "id": "b2379064-4773-408b-b9d6-57a0abd9b887",
+    "slug": "mlb-2026-06-29-chw-bal-24214",
+    "title": "Chicago White Sox vs. Baltimore Orioles",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-06-29T22:35:00.000Z",
+    "endsAt": "2026-06-30T02:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/a16b400d7482aa1db960faef28b1a518-thumbnail.jpg",
+    "embedUrl": "https://embedindia.st/embed/mlb/2026-06-29/chw-bal",
+    "feeds": [
+      {
+        "id": "b47be7d1-e8e5-40b6-871e-810647e80b02",
+        "sourceId": null,
+        "label": "All Devices",
+        "embedUrl": "https://embedindia.st/embed/mlb/2026-06-29/chw-bal"
+      }
+    ]
+  },
+  {
     "id": "463eee34-dba2-478d-9724-dd3ca26bc56b",
     "slug": "mlb-2026-06-29-pit-phi-24215",
     "title": "Pittsburgh Pirates vs. Philadelphia Phillies",
