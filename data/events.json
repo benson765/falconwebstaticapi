@@ -49,10 +49,46 @@
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-30/civ-nor",
     "feeds": [
       {
-        "id": "9649a374-b29c-45a5-9608-2d08cd771a87",
+        "id": "7afd752e-858b-4ac1-a546-a3dfe573fd15",
         "sourceId": null,
-        "label": "All Devices",
+        "label": "TSN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-30/civ-nor"
+      },
+      {
+        "id": "b2a88cfd-9a24-42a8-877a-8a11f4ef97a6",
+        "sourceId": null,
+        "label": "TSN (S2)",
+        "embedUrl": "https://embedindia.st/embed/wc/2026-06-30/civ-nor"
+      },
+      {
+        "id": "5c038c5b-3791-48fd-915c-465892ad64fd",
+        "sourceId": null,
+        "label": "FOX ONE",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-30/civ-nor/fox"
+      },
+      {
+        "id": "3fcd4b2e-e887-4b45-84ba-571737b1a6fd",
+        "sourceId": null,
+        "label": "BBC ONE UK",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-30/civ-nor/uk"
+      },
+      {
+        "id": "f77bb5ce-b7eb-4ad3-bbdc-41f2019d1ef7",
+        "sourceId": null,
+        "label": "beIN SPORTS - ARABIC",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-30/civ-nor/bein"
+      },
+      {
+        "id": "0866d375-e254-4e2a-a871-5ff6b0784b88",
+        "sourceId": null,
+        "label": "DAZN Español",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-30/civ-nor/dazn-spain"
+      },
+      {
+        "id": "bc420181-ba3d-48f5-8da0-896fda7ed79f",
+        "sourceId": null,
+        "label": "TELEMUNDO SPAIN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-06-30/civ-nor/telemundo"
       }
     ]
   },
