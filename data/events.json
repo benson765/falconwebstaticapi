@@ -1,24 +1,5 @@
 [
   {
-    "id": "33375294-402a-4c3b-aac7-97b0990216e6",
-    "slug": "wimbledon-2026-06-30-courtside-24507",
-    "title": "Wimbledon: Courtside",
-    "category": "Tennis",
-    "status": "live",
-    "startsAt": "2026-06-30T10:00:00.000Z",
-    "endsAt": "2026-06-30T22:00:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/d49f8936c9c3510700ab7862aa14f7f8-thumbnail.jpg",
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-06-30/courtside",
-    "feeds": [
-      {
-        "id": "10a8dd86-3118-472c-ae3d-3faf11539872",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-06-30/courtside"
-      }
-    ]
-  },
-  {
     "id": "9f29a3bd-b217-455d-b823-43d939d38b3a",
     "slug": "wimbledon-2026-06-30-virtanen-shelton-24464",
     "title": "Otto Virtanen vs. Ben Shelton",
