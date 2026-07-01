@@ -8,10 +8,22 @@
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/1",
     "feeds": [
       {
-        "id": "e2ff8f3b-1768-4cab-9ebe-e0f542f60409",
+        "id": "649bdd5c-c201-433f-b92f-09a94785fd00",
         "sourceId": null,
-        "label": "All Devices",
+        "label": "Willow",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/1"
+      },
+      {
+        "id": "769b6fcc-deed-43e2-afb2-f9d8387abc63",
+        "sourceId": null,
+        "label": "Willow 2",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/2"
+      },
+      {
+        "id": "4b45bb34-4bcc-476b-b5c9-5457d68550bd",
+        "sourceId": null,
+        "label": "Willow Sports",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/3"
       }
     ]
   },
