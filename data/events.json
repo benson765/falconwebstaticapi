@@ -52,52 +52,52 @@
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/de0bd3fd7979b9e0b66e19c66decd906-thumbnail.jpg",
     "isPopular": false,
     "sortOrder": 0,
-    "embedUrl": "https://embedindia.st/embed/wc/2026-07-01/eng-cod",
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod",
     "feeds": [
       {
-        "id": "61d2c9f2-a429-443d-80e8-768b1dd7b25e",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embedindia.st/embed/wc/2026-07-01/eng-cod"
-      },
-      {
-        "id": "d054dfdd-a1f8-492e-9600-cc22584917e7",
+        "id": "56876114-73eb-49d1-8cfe-546549d86744",
         "sourceId": null,
         "label": "TSN S2",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod"
       },
       {
-        "id": "2404bb69-1a65-4747-868e-13d0bfb13652",
+        "id": "245cd200-c6c2-4f86-831d-0756eda9510b",
+        "sourceId": null,
+        "label": "TSN 4",
+        "embedUrl": "https://embedindia.st/embed/wc/2026-07-01/eng-cod"
+      },
+      {
+        "id": "156fb6de-172c-45bc-a594-c98d3695b894",
         "sourceId": null,
         "label": "FOX Sports",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/fox"
       },
       {
-        "id": "e65a875f-c66a-4086-adb0-4d039a5bd5b2",
+        "id": "172b9dde-55e5-4e4c-8a46-72fcb38280a2",
         "sourceId": null,
         "label": "Fox Sports 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/fox-4k"
       },
       {
-        "id": "df1af98c-0b0c-46fc-a172-9bd9886e02fb",
+        "id": "6da799b1-3ebe-47f6-b01f-57c7f84e501b",
         "sourceId": null,
         "label": "iTV",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/uk"
       },
       {
-        "id": "62a71965-d09c-4a73-abdd-dc7f0a29587a",
+        "id": "852c5bb6-11e4-4c83-b298-29f1a10f4560",
         "sourceId": null,
         "label": "DAZN Esp",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/dazn-spain"
       },
       {
-        "id": "c58cd8bd-a14c-4b8f-83be-a3d498779869",
+        "id": "932b322d-8ac8-4638-81f4-8107d30d6254",
         "sourceId": null,
         "label": "TELEMUNDO",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/telemundo"
       },
       {
-        "id": "7c1095ac-eacf-4295-b191-a0bef5ef79ff",
+        "id": "6873c315-ae0f-40ef-8b67-77c0fcba5f16",
         "sourceId": null,
         "label": "PEACOCK",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-01/eng-cod/peacock-4k"
