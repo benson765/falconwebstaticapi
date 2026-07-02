@@ -82,5 +82,68 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-04/lon-fir"
       }
     ]
+  },
+  {
+    "id": "8238eb6c-65f2-4859-8420-11c626e71401",
+    "slug": "cfl-2026-07-04-edm-bc-24200",
+    "title": "Edmonton Elks vs. BC Lions",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T23:00:00.000Z",
+    "endsAt": "2026-07-05T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6b451afab7f7f4ab21b8aa08e81edce3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc",
+    "feeds": [
+      {
+        "id": "e11253b4-76e9-4898-900c-063c91565020",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc"
+      }
+    ]
+  },
+  {
+    "id": "e426f15c-dab3-4d28-b7bf-651aeedb0cc1",
+    "slug": "afle-2026-07-05-vie-ber-24213",
+    "title": "Vienna Vikings vs. Berlin Thunder",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T14:40:00.000Z",
+    "endsAt": "2026-07-05T18:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/3505381422e542d99e685a468f147748-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-05/vie-ber",
+    "feeds": [
+      {
+        "id": "9c7b7698-679b-4976-a18f-21b10e39690a",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-05/vie-ber"
+      }
+    ]
+  },
+  {
+    "id": "930749df-92e0-46c1-8b80-56f70e43fc95",
+    "slug": "cfl-2026-07-05-wpg-ham-24202",
+    "title": "Winnipeg Blue Bombers vs. Hamilton Tiger-Cats",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T23:00:00.000Z",
+    "endsAt": "2026-07-06T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b5ec314392455d415c845e18c97550c4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-05/wpg-ham",
+    "feeds": [
+      {
+        "id": "f7e14929-2178-4192-ae20-1cdea3c5d119",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-05/wpg-ham"
+      }
+    ]
   }
 ]
