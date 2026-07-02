@@ -42,6 +42,27 @@
     ]
   },
   {
+    "id": "7cb0ffe4-96b5-47a3-af09-4e8534867646",
+    "slug": "mlb-2026-07-02-cin-mil-24621",
+    "title": "Cincinnati Reds vs. Milwaukee Brewers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T18:10:00.000Z",
+    "endsAt": "2026-07-02T21:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/fbb9388e501c2a2851ae676684dd4f0a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/cin-mil",
+    "feeds": [
+      {
+        "id": "f8724155-4584-4c43-931f-8f7ad569726f",
+        "sourceId": null,
+        "label": "Brewers.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/cin-mil"
+      }
+    ]
+  },
+  {
     "id": "4cd5baab-5876-4e30-bad5-43a4b0b89580",
     "slug": "cfl-2026-07-02-tor-cgy-24194",
     "title": "Toronto Argonauts vs. Calgary Stampeders",
