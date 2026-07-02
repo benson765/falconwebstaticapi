@@ -63,6 +63,48 @@
     ]
   },
   {
+    "id": "dab96867-2720-478d-b73c-4fdf0de07830",
+    "slug": "wimbledon-2026-07-02-diallo-sonego-24679",
+    "title": "Gabriel Diallo vs. Lorenzo Sonego",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-02T10:10:00.000Z",
+    "endsAt": "2026-07-02T15:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/fd3507556e5d4d65329daa5c749913c5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/diallo-sonego",
+    "feeds": [
+      {
+        "id": "bc44edf9-adc1-413c-9342-069c17eda06a",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/diallo-sonego"
+      }
+    ]
+  },
+  {
+    "id": "4e37cf17-bafe-4838-91fd-03b85afc82f6",
+    "slug": "wimbledon-2026-07-02-fritz-kypson-24680",
+    "title": "Taylor Fritz vs. Patrick Kypson",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-02T10:10:00.000Z",
+    "endsAt": "2026-07-02T15:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/09c403ae2c02f2d4274af86e7c8fa865-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/fritz-kypson",
+    "feeds": [
+      {
+        "id": "138a0c3f-edf2-44f1-9007-6104c4939208",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-02/fritz-kypson"
+      }
+    ]
+  },
+  {
     "id": "10dd935f-d293-4f19-b057-1900c4b01c42",
     "slug": "mlb-2026-07-02-pit-phi-24620",
     "title": "Pittsburgh Pirates vs. Philadelphia Phillies",
