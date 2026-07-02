@@ -63,6 +63,27 @@
     ]
   },
   {
+    "id": "28ac75c5-1c81-4d28-b23b-4638ded7cd7d",
+    "slug": "afl-2026-07-03-wce-adel-24229",
+    "title": "West Coast Eagles vs. Adelaide Crows",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T10:10:00.000Z",
+    "endsAt": "2026-07-03T13:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/3bde872a2b01d7c45ad58129cb3fcea0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/wce-adel",
+    "feeds": [
+      {
+        "id": "55b4d44d-5a6d-4715-89bf-f22c61b7bc99",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-03/wce-adel"
+      }
+    ]
+  },
+  {
     "id": "e6c47286-f1b1-40a8-9e2a-88eb57b63483",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
@@ -80,6 +101,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott"
+      }
+    ]
+  },
+  {
+    "id": "d32e67e2-f521-4457-825c-57c171e4cbc7",
+    "slug": "afl-2026-07-04-haw-melb-24230",
+    "title": "Hawthorn vs. Melbourne",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T03:15:00.000Z",
+    "endsAt": "2026-07-04T06:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/43713fb2868801670255a034ac4cbb2d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb",
+    "feeds": [
+      {
+        "id": "7ecb0589-e1ab-40fe-891f-b1408fb7c8a0",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb"
       }
     ]
   },
