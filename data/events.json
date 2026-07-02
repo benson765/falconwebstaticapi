@@ -1149,6 +1149,27 @@
     ]
   },
   {
+    "id": "a2d872a0-6315-447c-9524-4436fa1a5344",
+    "slug": "nrl-2026-07-05-par-man-24239",
+    "title": "Eels vs. Sea Eagles",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T04:00:00.000Z",
+    "endsAt": "2026-07-05T06:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/75c24fe5e7cef8e078200a31578d339b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/par-man",
+    "feeds": [
+      {
+        "id": "2ec9bab2-10bc-4a2b-ba4f-8af3db577132",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/par-man"
+      }
+    ]
+  },
+  {
     "id": "1257c419-8a8e-408a-88ff-1675aec733b2",
     "slug": "afl-2026-07-05-ess-stk-24234",
     "title": "Essendon vs. St Kilda",
