@@ -42,6 +42,48 @@
     ]
   },
   {
+    "id": "1c5bfaf6-1f68-4221-a9b3-f0a875daa96c",
+    "slug": "mlb-2026-07-02-cin-mil-24621",
+    "title": "Cincinnati Reds vs. Milwaukee Brewers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T18:10:00.000Z",
+    "endsAt": "2026-07-02T21:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/fbb9388e501c2a2851ae676684dd4f0a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/cin-mil",
+    "feeds": [
+      {
+        "id": "6c13d41c-da45-4e5b-aa95-966056f1a1cb",
+        "sourceId": null,
+        "label": "Brewers.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/cin-mil"
+      }
+    ]
+  },
+  {
+    "id": "51c4960c-167e-4ae7-acf3-b387523c848a",
+    "slug": "mlb-2026-07-02-mia-col-24622",
+    "title": "Miami Marlins vs. Colorado Rockies",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T19:10:00.000Z",
+    "endsAt": "2026-07-02T22:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/effa90be1effd25ac639172104109196-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/mia-col",
+    "feeds": [
+      {
+        "id": "537d72ec-8b5b-4487-aaf3-dbe66114334e",
+        "sourceId": null,
+        "label": "Rockies.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/mia-col"
+      }
+    ]
+  },
+  {
     "id": "67d2c7ea-6e56-4c49-b215-18b3e3541cf1",
     "slug": "cfl-2026-07-02-tor-cgy-24194",
     "title": "Toronto Argonauts vs. Calgary Stampeders",
