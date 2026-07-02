@@ -63,6 +63,48 @@
     ]
   },
   {
+    "id": "6ad5e1cc-e0c8-4b32-aafe-d3b7b8e21c6f",
+    "slug": "mlb-2026-07-02-mia-col-24622",
+    "title": "Miami Marlins vs. Colorado Rockies",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T19:10:00.000Z",
+    "endsAt": "2026-07-02T22:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/effa90be1effd25ac639172104109196-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/mia-col",
+    "feeds": [
+      {
+        "id": "60e1dd9e-dde3-4c28-ab2a-458491e02686",
+        "sourceId": null,
+        "label": "Rockies.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/mia-col"
+      }
+    ]
+  },
+  {
+    "id": "c04c83a3-0a80-4d83-80a6-46ec594f9558",
+    "slug": "mlb-2026-07-02-chw-cle-24623",
+    "title": "Chicago White Sox vs. Cleveland Guardians",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-02T22:40:00.000Z",
+    "endsAt": "2026-07-03T02:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/19cf42fa853dc777e0c6971e92377dad-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/chw-cle",
+    "feeds": [
+      {
+        "id": "86532046-9461-46b4-93b9-4aad678c1770",
+        "sourceId": null,
+        "label": "CLEGuardians.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-02/chw-cle"
+      }
+    ]
+  },
+  {
     "id": "4cd5baab-5876-4e30-bad5-43a4b0b89580",
     "slug": "cfl-2026-07-02-tor-cgy-24194",
     "title": "Toronto Argonauts vs. Calgary Stampeders",
