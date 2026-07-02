@@ -168,6 +168,27 @@
     ]
   },
   {
+    "id": "23cc132f-c1ee-441e-ae2f-5bb47d464816",
+    "slug": "afl-2026-07-04-rich-carl-24233",
+    "title": "Richmond vs. Carlton",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T09:35:00.000Z",
+    "endsAt": "2026-07-04T12:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/2996f9906a36e7f964967db3baa545f9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl",
+    "feeds": [
+      {
+        "id": "3e98c104-5534-4f34-9306-50488cfe677d",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl"
+      }
+    ]
+  },
+  {
     "id": "75e834fb-8317-4916-902a-071e596df7fa",
     "slug": "afle-2026-07-04-par-pan-24211",
     "title": "Paris Lights vs. Panthers Wroclaw",
@@ -227,6 +248,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc"
+      }
+    ]
+  },
+  {
+    "id": "1257c419-8a8e-408a-88ff-1675aec733b2",
+    "slug": "afl-2026-07-05-ess-stk-24234",
+    "title": "Essendon vs. St Kilda",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T05:15:00.000Z",
+    "endsAt": "2026-07-05T08:15:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/048108dfd8e6d2c62b40332435343bc4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk",
+    "feeds": [
+      {
+        "id": "d84d3454-2da5-42e4-9980-d6c074300a18",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk"
       }
     ]
   },
