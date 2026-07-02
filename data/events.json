@@ -525,6 +525,132 @@
     ]
   },
   {
+    "id": "f5d187f2-f955-498d-b560-fa1fa4612df6",
+    "slug": "wc-2026-07-03-aus-egy-24593",
+    "title": "Australia vs. Egypt",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T18:00:00.000Z",
+    "endsAt": "2026-07-03T20:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/62dc70cfed4f740037418ac9bf48ac85-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy",
+    "feeds": [
+      {
+        "id": "a8b627f5-f97f-4f96-b196-5032f46b1ab0",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy"
+      },
+      {
+        "id": "2905e9cd-b1b3-4c5b-858f-b5d5b9041778",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fox"
+      },
+      {
+        "id": "f60ac3f9-c5ec-489e-ad50-aa2b5dc89b5e",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/fox-4k"
+      },
+      {
+        "id": "faf945d9-ef36-4712-91e2-655234bb5d79",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/uk"
+      },
+      {
+        "id": "751f070c-f47e-4332-b143-72a32572c074",
+        "sourceId": null,
+        "label": "beIN Sports",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/bein"
+      },
+      {
+        "id": "c3f87f40-9178-405c-8ad8-8fef56720823",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/dazn-spain"
+      },
+      {
+        "id": "b815d4c4-50b6-4950-8bd8-3fbad9bf7b88",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/telemundo"
+      },
+      {
+        "id": "7200c0d4-7054-4b24-9475-09c9872a0199",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/aus-egy/peacock-4k"
+      }
+    ]
+  },
+  {
+    "id": "3038d633-3a0c-4411-80bd-dfc601838a09",
+    "slug": "wc-2026-07-03-arg-cpv-24601",
+    "title": "Argentina vs. Cape Verde",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T22:00:00.000Z",
+    "endsAt": "2026-07-04T00:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6ae3de8b95df122b66002ef84d73204e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv",
+    "feeds": [
+      {
+        "id": "b0318386-c0f7-4684-ad25-babbd72ca832",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv"
+      },
+      {
+        "id": "de04487a-cb81-48e4-a6ca-acba42b18763",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fox"
+      },
+      {
+        "id": "2f5c52a5-cd15-4c01-85de-d6a8481ad04f",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fox-4k"
+      },
+      {
+        "id": "d7d72d72-21f1-4329-9dc4-afd094674120",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/uk"
+      },
+      {
+        "id": "6163b4be-cd11-4d9b-83ae-e5e1b760918e",
+        "sourceId": null,
+        "label": "beIN Sports",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/bein"
+      },
+      {
+        "id": "c4e2c794-a1d1-4706-8905-9fec067acf43",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/dazn-spain"
+      },
+      {
+        "id": "c28bb0ae-c483-4345-a1ad-18c82a5ce6ec",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/telemundo"
+      },
+      {
+        "id": "cf766ceb-3bdb-4c5f-9c64-acfcad18a04a",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/peacock-4k"
+      }
+    ]
+  },
+  {
     "id": "6afd18a3-9dae-4549-aa44-c21344340a27",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
