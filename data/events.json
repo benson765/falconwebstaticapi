@@ -42,6 +42,27 @@
     ]
   },
   {
+    "id": "b290c326-edf0-44e8-b7e5-4fa434c6ed51",
+    "slug": "mlb-2026-07-03-min-nyy-24728",
+    "title": "Minnesota Twins vs. New York Yankees",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T23:05:00.000Z",
+    "endsAt": "2026-07-04T02:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/d99236dfe8f6c95601590bcc5c72eee6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/min-nyy",
+    "feeds": [
+      {
+        "id": "fd086fca-23f8-413b-be28-66dc633dac7c",
+        "sourceId": null,
+        "label": "YES",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/min-nyy"
+      }
+    ]
+  },
+  {
     "id": "cb9112a9-cf40-4d00-8dcb-8f82d2caef5f",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
