@@ -105,6 +105,27 @@
     ]
   },
   {
+    "id": "3a255e0b-8f27-4b0c-bdf1-2699286e037f",
+    "slug": "mlb-2026-07-03-nym-atl-24731",
+    "title": "New York Mets vs. Atlanta Braves",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T23:15:00.000Z",
+    "endsAt": "2026-07-04T02:45:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/2ee37ba454c94e6557b483b1c5477159-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/nym-atl",
+    "feeds": [
+      {
+        "id": "64b54e62-811a-4629-adbc-f863f9c0cc29",
+        "sourceId": null,
+        "label": "BravesVision",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/nym-atl"
+      }
+    ]
+  },
+  {
     "id": "cb9112a9-cf40-4d00-8dcb-8f82d2caef5f",
     "slug": "cfl-2026-07-03-ssk-ott-24197",
     "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
@@ -122,6 +143,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott"
+      }
+    ]
+  },
+  {
+    "id": "e2a965b5-c3f7-4b0b-8a5e-deae1b4a4a3a",
+    "slug": "mlb-2026-07-03-sf-col-24732",
+    "title": "San Francisco Giants vs. Colorado Rockies",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T00:10:00.000Z",
+    "endsAt": "2026-07-04T03:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/79f6746f22a3753e0aac4c4848063e84-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/sf-col",
+    "feeds": [
+      {
+        "id": "ebfe5b98-d266-4940-aec7-1e557c701d21",
+        "sourceId": null,
+        "label": "Rockies.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/sf-col"
       }
     ]
   },
