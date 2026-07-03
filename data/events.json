@@ -1,5 +1,26 @@
 [
   {
+    "id": "55b98a05-3e21-4431-9632-8d84e20c447a",
+    "slug": "wimbledon-2026-07-03-courtside-24818",
+    "title": "Wimbledon: Courtside",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-03T10:00:00.000Z",
+    "endsAt": "2026-07-03T22:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/d49f8936c9c3510700ab7862aa14f7f8-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/courtside",
+    "feeds": [
+      {
+        "id": "443033f7-6208-43cc-957e-9323dd79252c",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/courtside"
+      }
+    ]
+  },
+  {
     "id": "b77d4515-52ef-4784-836c-5b09d9f905aa",
     "slug": "f1-2026-great-britain-sprint-q-24341",
     "title": "British Grand Prix - Sprint Qualifying",
@@ -1241,6 +1262,27 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-05/ess-stk"
+      }
+    ]
+  },
+  {
+    "id": "65b0d5f5-d2f3-4917-8ff5-105106fb850f",
+    "slug": "nrl-2026-07-05-new-dol-24240",
+    "title": "Knights vs. Dolphins",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T06:05:00.000Z",
+    "endsAt": "2026-07-05T08:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/79d4d8bd3e04d9b28e112b8d725b8192-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/new-dol",
+    "feeds": [
+      {
+        "id": "8f9ea4bb-03b6-4221-8bf0-b1233ef6f3e9",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-05/new-dol"
       }
     ]
   },
