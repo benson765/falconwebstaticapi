@@ -42,6 +42,48 @@
     ]
   },
   {
+    "id": "623e7419-ceed-4cc0-8c3c-b2cdf229e4e6",
+    "slug": "wimbledon-2026-07-03-rinderknech-djokovic-24816",
+    "title": "Arthur Rinderknech vs. Novak Djokovic",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-03T12:30:00.000Z",
+    "endsAt": "2026-07-03T17:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6e0f2c714212e534885ff75fdbe9a11e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/rinderknech-djokovic",
+    "feeds": [
+      {
+        "id": "10ebcd3b-b83f-443c-90a3-45a02c7f6072",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/rinderknech-djokovic"
+      }
+    ]
+  },
+  {
+    "id": "18bc99f6-4b50-4162-9085-8b540c2f16ba",
+    "slug": "wimbledon-2026-07-03-sinner-brooksby-24817",
+    "title": "Jannik Sinner vs. Jenson Brooksby",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-03T13:30:00.000Z",
+    "endsAt": "2026-07-03T18:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/13a0a2c5340f2ed4458922e9988218f3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/sinner-brooksby",
+    "feeds": [
+      {
+        "id": "0af9213f-d65a-4acb-b254-7513585c1334",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/sinner-brooksby"
+      }
+    ]
+  },
+  {
     "id": "a46b063c-1018-4eab-978d-9fd87b786a27",
     "slug": "f1-2026-great-britain-sprint-q-24341",
     "title": "British Grand Prix - Sprint Qualifying",
