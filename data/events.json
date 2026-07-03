@@ -147,6 +147,27 @@
     ]
   },
   {
+    "id": "75e99320-2410-47b0-86e3-dfed4bc484f0",
+    "slug": "wnba-2026-07-03-min-ny-24724",
+    "title": "Minnesota Lynx vs. New York Liberty",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T23:30:00.000Z",
+    "endsAt": "2026-07-04T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/b623e22a8bb0b5296243c6fd1ccff50b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-03/min-ny",
+    "feeds": [
+      {
+        "id": "24bb365c-22da-49d7-ac2d-8841bf785fa3",
+        "sourceId": null,
+        "label": "ION",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wnba/2026-07-03/min-ny"
+      }
+    ]
+  },
+  {
     "id": "e2a965b5-c3f7-4b0b-8a5e-deae1b4a4a3a",
     "slug": "mlb-2026-07-03-sf-col-24732",
     "title": "San Francisco Giants vs. Colorado Rockies",
@@ -248,6 +269,48 @@
         "sourceId": null,
         "label": "MLB.TV",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/mil-ari"
+      }
+    ]
+  },
+  {
+    "id": "33fac4e7-b38c-4a77-9f0e-5f8fffc40498",
+    "slug": "mlb-2026-07-03-sd-lad-24737",
+    "title": "San Diego Padres vs. Los Angeles Dodgers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T02:10:00.000Z",
+    "endsAt": "2026-07-04T05:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/34b57d2427814c46588425181c718049-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/sd-lad",
+    "feeds": [
+      {
+        "id": "84b6d5a9-d4d3-47e4-9fb1-4d1cef477ac2",
+        "sourceId": null,
+        "label": "Sportsnet LA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/sd-lad"
+      }
+    ]
+  },
+  {
+    "id": "72c48069-a434-4414-b409-58d66bbadd7d",
+    "slug": "mlb-2026-07-03-tor-sea-24738",
+    "title": "Toronto Blue Jays vs. Seattle Mariners",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T02:10:00.000Z",
+    "endsAt": "2026-07-04T05:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/49069cc19c0df4d21346cccc44cae7db-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/tor-sea",
+    "feeds": [
+      {
+        "id": "86afc1a3-d2d9-4d8c-9f50-c16315958fda",
+        "sourceId": null,
+        "label": "Mariners.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-03/tor-sea"
       }
     ]
   },
