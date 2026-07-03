@@ -21,27 +21,6 @@
     ]
   },
   {
-    "id": "b5ba1be2-e8ff-4f51-8c29-bdbffb8efd1d",
-    "slug": "wimbledon-2026-07-03-safiullin-fonseca-24815",
-    "title": "Roman Safiullin vs. Joao Fonseca",
-    "category": "Tennis",
-    "status": "live",
-    "startsAt": "2026-07-03T10:05:00.000Z",
-    "endsAt": "2026-07-03T15:05:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/1841480d5c8ecf63bbd512bae7da1534-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/safiullin-fonseca",
-    "feeds": [
-      {
-        "id": "38f1892f-649c-476d-a63f-fb30d3de143d",
-        "sourceId": null,
-        "label": "Stan Sport",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/safiullin-fonseca"
-      }
-    ]
-  },
-  {
     "id": "72a63687-6934-41ae-8256-78d6d748ce2e",
     "slug": "wimbledon-2026-07-03-rinderknech-djokovic-24816",
     "title": "Arthur Rinderknech vs. Novak Djokovic",
@@ -831,27 +810,6 @@
     ]
   },
   {
-    "id": "83e4671d-911e-460a-897a-bff3ac2d4220",
-    "slug": "afl-2026-07-04-haw-melb-24230",
-    "title": "Hawthorn vs. Melbourne",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-04T03:15:00.000Z",
-    "endsAt": "2026-07-04T06:15:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/43713fb2868801670255a034ac4cbb2d-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/haw-melb"
-      }
-    ]
-  },
-  {
     "id": "be81392f-a9d6-4103-a681-962e662eb13b",
     "slug": "nrl-2026-07-04-st-wes-24237",
     "title": "Dragons vs. Wests Tigers",
@@ -869,27 +827,6 @@
         "sourceId": null,
         "label": "Fox League",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-04/st.-wes"
-      }
-    ]
-  },
-  {
-    "id": "c26e8452-a339-46df-a499-58c4cdd98725",
-    "slug": "afl-2026-07-04-rich-carl-24233",
-    "title": "Richmond vs. Carlton",
-    "category": "Australian Football",
-    "status": "upcoming",
-    "startsAt": "2026-07-04T09:35:00.000Z",
-    "endsAt": "2026-07-04T12:35:00.000Z",
-    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/2996f9906a36e7f964967db3baa545f9-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl",
-    "feeds": [
-      {
-        "id": "legacy",
-        "sourceId": null,
-        "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-04/rich-carl"
       }
     ]
   },
