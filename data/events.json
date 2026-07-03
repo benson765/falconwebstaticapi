@@ -82,5 +82,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-04/edm-bc"
       }
     ]
+  },
+  {
+    "id": "f48bb9b9-0d2f-4a4e-a9bc-03919dffb3b6",
+    "slug": "afle-2026-07-05-vie-ber-24213",
+    "title": "Vienna Vikings vs. Berlin Thunder",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T14:40:00.000Z",
+    "endsAt": "2026-07-05T18:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/3505381422e542d99e685a468f147748-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-05/vie-ber",
+    "feeds": [
+      {
+        "id": "cf77d78d-04f9-46e4-8765-503d9488b628",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-05/vie-ber"
+      }
+    ]
   }
 ]
