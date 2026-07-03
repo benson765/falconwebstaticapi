@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "cb9112a9-cf40-4d00-8dcb-8f82d2caef5f",
+    "slug": "cfl-2026-07-03-ssk-ott-24197",
+    "title": "Saskatchewan Roughriders vs. Ottawa RedBlacks",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-03T23:30:00.000Z",
+    "endsAt": "2026-07-04T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c9c799557f4687dc624fb0fca6786986-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott",
+    "feeds": [
+      {
+        "id": "a0bf1c43-e6d2-4c07-8ebc-65a2dd9559c4",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-03/ssk-ott"
+      }
+    ]
+  }
+]
