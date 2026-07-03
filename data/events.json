@@ -21,6 +21,48 @@
     ]
   },
   {
+    "id": "b5ba1be2-e8ff-4f51-8c29-bdbffb8efd1d",
+    "slug": "wimbledon-2026-07-03-safiullin-fonseca-24815",
+    "title": "Roman Safiullin vs. Joao Fonseca",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-03T10:05:00.000Z",
+    "endsAt": "2026-07-03T15:05:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/1841480d5c8ecf63bbd512bae7da1534-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/safiullin-fonseca",
+    "feeds": [
+      {
+        "id": "38f1892f-649c-476d-a63f-fb30d3de143d",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/safiullin-fonseca"
+      }
+    ]
+  },
+  {
+    "id": "72a63687-6934-41ae-8256-78d6d748ce2e",
+    "slug": "wimbledon-2026-07-03-rinderknech-djokovic-24816",
+    "title": "Arthur Rinderknech vs. Novak Djokovic",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-03T12:30:00.000Z",
+    "endsAt": "2026-07-03T17:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6e0f2c714212e534885ff75fdbe9a11e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/rinderknech-djokovic",
+    "feeds": [
+      {
+        "id": "575bca2f-f7a0-40a3-b42c-d7989c7fbf0c",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-03/rinderknech-djokovic"
+      }
+    ]
+  },
+  {
     "id": "b77d4515-52ef-4784-836c-5b09d9f905aa",
     "slug": "f1-2026-great-britain-sprint-q-24341",
     "title": "British Grand Prix - Sprint Qualifying",
