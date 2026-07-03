@@ -124,7 +124,7 @@
     "slug": "mlb-2026-07-03-stl-chc-24726",
     "title": "St. Louis Cardinals vs. Chicago Cubs",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-03T20:05:00.000Z",
     "endsAt": "2026-07-03T23:35:00.000Z",
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/7ca7369d6d76897af2bd9a5e4b1ec876-thumbnail.jpg",
@@ -151,85 +151,121 @@
     "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6ae3de8b95df122b66002ef84d73204e-thumbnail.jpg",
     "isPopular": false,
     "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv",
+    "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=d606638a2b",
     "feeds": [
       {
-        "id": "2d495e03-fda6-47ce-b0e2-67dd715df230",
+        "id": "9a01b60d-7724-4ab5-b5de-63eab240c75e",
         "sourceId": null,
-        "label": "TSN",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv"
+        "label": "FOX Sports 4K",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=d606638a2b"
       },
       {
-        "id": "4c72f5ca-4cfe-4333-b426-c1534f795af3",
+        "id": "3e615d46-4aa0-4c27-9eda-aad12c6345d6",
         "sourceId": null,
-        "label": "FOX",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fox"
+        "label": "TSN Sports",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=c97a36a1c1"
       },
       {
-        "id": "85f6f198-dc2b-479b-adbd-ee2036faeb9b",
+        "id": "d3a88273-08ca-4aa4-b75a-93e4db615c57",
+        "sourceId": null,
+        "label": "TIPIK FR",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=605a0cc21d"
+      },
+      {
+        "id": "dd8c2fa4-6bff-4f71-92b9-66c51545e7da",
+        "sourceId": null,
+        "label": "NTV Sports",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=0aa37aec73"
+      },
+      {
+        "id": "b05812d0-920b-455f-b60f-9acb759879c1",
         "sourceId": null,
         "label": "FOX 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fox-4k-hevc"
       },
       {
-        "id": "04fc24ca-286e-43ff-ad9a-599422127377",
+        "id": "5d488d65-b31f-4295-8927-19baac7e40b2",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv"
+      },
+      {
+        "id": "5a9a4f6a-8c1b-4345-9e93-c565404aca76",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fox"
+      },
+      {
+        "id": "ff346240-264e-4724-b6af-cc443195cfd9",
         "sourceId": null,
         "label": "ITV1",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/uk"
       },
       {
-        "id": "a482de0f-a3b5-47d9-bdf5-74401aeeb278",
+        "id": "1d5fc287-d4e8-4d1b-8792-a56cd94c6052",
         "sourceId": null,
         "label": "beIN Sports 1",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/bein-sports-1"
       },
       {
-        "id": "f7ff8dee-6320-4bf5-bffa-99cc3db15ee6",
-        "sourceId": null,
-        "label": "DAZN Spain",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/dazn-spain"
-      },
-      {
-        "id": "388a22bd-08cf-4f5b-b0f0-b7c4b9722584",
-        "sourceId": null,
-        "label": "Telemundo",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/telemundo"
-      },
-      {
-        "id": "75d1ee2c-3943-428f-80f4-4ca2f3332ebd",
+        "id": "e84f6793-96f7-44ac-b9eb-08fb761a410e",
         "sourceId": null,
         "label": "Peacock 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/peacock-4k-hevc"
       },
       {
-        "id": "78eee220-9329-4051-989d-6cec32e1c5b4",
+        "id": "1b74558e-595a-4680-ac0d-fa446bc3475d",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/dazn-spain"
+      },
+      {
+        "id": "28ab34a1-aadf-4c28-8f2c-a356c86ed8f1",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/telemundo"
+      },
+      {
+        "id": "b0e565e4-68c0-4502-92bb-d6148b011247",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fussballtv-4k-hevc"
       },
       {
-        "id": "5a627788-27f1-4d24-aa1e-f0c4bd8bb66c",
+        "id": "48f389b4-28f1-42ff-b272-f272db3fd5e3",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fussballtv-4k-no-commentary-hevc"
       },
       {
-        "id": "4f1a44ed-d6d6-4812-b9cf-97535ed6c0c2",
+        "id": "5db46963-d7f5-463a-aff3-fc9e4026f3dc",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fussballtv-4k-tactical-hevc"
       },
       {
-        "id": "9515acd1-233b-478f-9e08-1869046be172",
+        "id": "8f0605cc-3a8d-4395-8473-47f8de801b07",
+        "sourceId": null,
+        "label": "TSN Sports",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=c97a36a1c1"
+      },
+      {
+        "id": "b6ad3bf3-e7ec-44c3-b2b4-8cd7c5ed702d",
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/fussballtv-4k-tactical-no-commentary-hevc"
       },
       {
-        "id": "71dc4186-2084-4351-b64c-d671b1cfee58",
+        "id": "33d0865f-0c74-426f-8acc-5b7c7ef25879",
         "sourceId": null,
         "label": "ORF 1",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/arg-cpv/orf-1"
+      },
+      {
+        "id": "1d60218c-92d2-4e31-93a6-abdc36c78eff",
+        "sourceId": null,
+        "label": "Fox Sports",
+        "embedUrl": "https://embeds.primepulses.online/webplayer/player.php?id=8932d9cfa0"
       }
     ]
   },
