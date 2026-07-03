@@ -423,6 +423,105 @@
     ]
   },
   {
+    "id": "5ab80248-aa78-4737-a1ab-48d6a82253ac",
+    "slug": "wc-2026-07-03-col-gha-24797",
+    "title": "Colombia vs. Ghana",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-04T01:30:00.000Z",
+    "endsAt": "2026-07-04T04:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/9a7d054f359a94229381c294646c5d32-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha",
+    "feeds": [
+      {
+        "id": "081ef6e3-1fc1-40ea-9e56-818aadfa8681",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha"
+      },
+      {
+        "id": "053bd22f-9a14-4c3b-a9dc-ff74325c7e67",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fox"
+      },
+      {
+        "id": "70a78807-1081-4c7a-aae3-0d14ba99cca6",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fox-4k-hevc"
+      },
+      {
+        "id": "74c1f14c-43a0-4022-8d68-00eeccb58c77",
+        "sourceId": null,
+        "label": "ITV1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/uk"
+      },
+      {
+        "id": "4fe09dc8-564a-42aa-838e-b839eb4722b2",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/bein-sports-1"
+      },
+      {
+        "id": "ed6603ab-a0ed-43b5-8fab-3a2a2f5ada6e",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/dazn-spain"
+      },
+      {
+        "id": "a4ce5932-e387-4e48-b5ad-691dd791e084",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/telemundo"
+      },
+      {
+        "id": "48676cea-0824-49a1-8483-9943ee4c5a01",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/peacock-4k-hevc"
+      },
+      {
+        "id": "d1e1b395-4aff-4cd1-9452-b9d66c21f038",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fussballtv-4k-hevc"
+      },
+      {
+        "id": "b976205e-4cf1-425e-8834-46a62024e6d0",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "6d53d9b2-4abe-4dba-817c-f429a03b02b5",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "232307fd-e692-46ae-83a2-c592b19503f5",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/fussballtv-4k-tactical-no-commentary-hevc"
+      },
+      {
+        "id": "f4ae5f7c-644f-4456-b993-425241f522ee",
+        "sourceId": null,
+        "label": "ZDF",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/zdf"
+      },
+      {
+        "id": "a7e3099b-ba64-48c7-8216-87ea4cbc4a1b",
+        "sourceId": null,
+        "label": "ORF 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-03/col-gha/orf-1"
+      }
+    ]
+  },
+  {
     "id": "cd88712b-fd6a-40e2-ac11-744242aef2da",
     "slug": "mlb-2026-07-03-bos-laa-24734",
     "title": "Boston Red Sox vs. Los Angeles Angels",
