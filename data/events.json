@@ -856,5 +856,47 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/fussballtv-4k-tactical-no-commentary-hevc"
       }
     ]
+  },
+  {
+    "id": "96189f2f-1244-4289-afdc-70cb38c1a185",
+    "slug": "nba-2026-07-06-gs-bkn-24924",
+    "title": "Golden State Warriors Blue vs. Brooklyn Nets",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T00:00:00.000Z",
+    "endsAt": "2026-07-07T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6ce90b569a87f2f35038e0f6cf2babd3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-06/gs-bkn",
+    "feeds": [
+      {
+        "id": "3778a820-9f11-4371-ab0d-383250f95877",
+        "sourceId": null,
+        "label": "ESPN+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-06/gs-bkn"
+      }
+    ]
+  },
+  {
+    "id": "a4f0d86d-086c-458f-9bc9-50abb00cb50f",
+    "slug": "nba-2026-07-06-mem-utah-24925",
+    "title": "Memphis Grizzlies vs. Utah Jazz",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T01:00:00.000Z",
+    "endsAt": "2026-07-07T04:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/acb8e07e8d9f6e461f24ea4457e5435b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-06/mem-utah",
+    "feeds": [
+      {
+        "id": "c6e08568-56e5-4fa6-b1a2-ac9de8c9b420",
+        "sourceId": null,
+        "label": "ESPN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-06/mem-utah"
+      }
+    ]
   }
 ]
