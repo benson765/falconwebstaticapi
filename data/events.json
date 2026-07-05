@@ -1,1 +1,89 @@
-[]
+[
+  {
+    "id": "987c180d-2419-4f5f-90c3-bd1c595b1adc",
+    "slug": "wc-2026-07-05-bra-nor-24827",
+    "title": "Brazil vs. Norway",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T20:00:00.000Z",
+    "endsAt": "2026-07-05T22:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/9b44c2b9ea5450667bd4ac064d9febd3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor",
+    "feeds": [
+      {
+        "id": "3946827d-52e2-48e6-b89a-5ee0646559e9",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor"
+      },
+      {
+        "id": "dad196b8-e29e-430d-a339-a2841c020099",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fox"
+      },
+      {
+        "id": "6ba3357e-7db9-4408-9758-4c699d71c441",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fox-4k-hevc"
+      },
+      {
+        "id": "cef6b668-d5f8-451f-a9e8-95eba53e7ec1",
+        "sourceId": null,
+        "label": "ITV1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/uk"
+      },
+      {
+        "id": "2089784c-c0f7-4c01-8513-5e871fc60d90",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/bein-sports-1"
+      },
+      {
+        "id": "339a304f-8594-431f-904a-c7b5bd775f9f",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/dazn-spain"
+      },
+      {
+        "id": "7792c0ca-7810-40b6-847e-28150fab1e8d",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/telemundo"
+      },
+      {
+        "id": "06e94b17-4670-47fa-89b0-6bb0f9e1dd76",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/peacock-4k-hevc"
+      },
+      {
+        "id": "c6b2a048-23b8-45d3-9502-f9f1177bad23",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fussballtv-4k-hevc"
+      },
+      {
+        "id": "391ce2c5-c417-44fa-ba6f-ca180f813b0f",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "6a13851f-a48e-4406-8c72-341eca0f0b35",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "eaff7a2a-956e-4247-a39a-a39902bb1eba",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/bra-nor/fussballtv-4k-tactical-no-commentary-hevc"
+      }
+    ]
+  }
+]
