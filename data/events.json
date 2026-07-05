@@ -265,5 +265,92 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/por-esp/fussballtv-4k-tactical-no-commentary-hevc"
       }
     ]
+  },
+  {
+    "id": "aa5c460e-2e5b-41ce-b689-e3d31260dcc1",
+    "slug": "wc-2026-07-06-usa-bel-24910",
+    "title": "United States vs. Belgium",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T00:00:00.000Z",
+    "endsAt": "2026-07-07T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/7184f3275138ab0abd3d4eeb667975b6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel",
+    "feeds": [
+      {
+        "id": "6da0cd90-7d1b-4699-8999-b1c1701c87aa",
+        "sourceId": null,
+        "label": "TSN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel"
+      },
+      {
+        "id": "326f1a62-3e5b-453d-908b-00d9031d800f",
+        "sourceId": null,
+        "label": "FOX",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/fox"
+      },
+      {
+        "id": "cb1bca7d-813a-4fb2-b979-8d7b4fc98266",
+        "sourceId": null,
+        "label": "FOX 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/fox-4k-hevc"
+      },
+      {
+        "id": "5a7cbc4f-940a-45bb-9a86-cecfe8ad576d",
+        "sourceId": null,
+        "label": "BBC/ITV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/uk"
+      },
+      {
+        "id": "94c83416-31d9-4b0f-8d53-e5bbb58b5f09",
+        "sourceId": null,
+        "label": "beIN Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/bein-sports-1"
+      },
+      {
+        "id": "31889901-50a1-4db7-9d23-16d6da57ebc8",
+        "sourceId": null,
+        "label": "DAZN Spain",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/dazn-spain"
+      },
+      {
+        "id": "43eea418-797b-45b7-92c6-227b98531a37",
+        "sourceId": null,
+        "label": "Telemundo",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/telemundo"
+      },
+      {
+        "id": "ec6cab6c-4c78-4b2d-9599-abf19e78cb14",
+        "sourceId": null,
+        "label": "Peacock 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/peacock-4k-hevc"
+      },
+      {
+        "id": "0f3dbcb0-91cc-4058-a056-b9fc05ec7b34",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/fussballtv-4k-hevc"
+      },
+      {
+        "id": "38384ccd-fb88-4a31-9602-477602ce1035",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/fussballtv-4k-no-commentary-hevc"
+      },
+      {
+        "id": "84598adc-6f2d-4825-aabe-8b9f4e6c17cc",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/fussballtv-4k-tactical-hevc"
+      },
+      {
+        "id": "bbe4d3f9-6a8b-4116-abb7-d4cfff2b4b5f",
+        "sourceId": null,
+        "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-06/usa-bel/fussballtv-4k-tactical-no-commentary-hevc"
+      }
+    ]
   }
 ]
