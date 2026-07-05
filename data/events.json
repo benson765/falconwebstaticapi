@@ -147,6 +147,27 @@
     ]
   },
   {
+    "id": "046eca9b-54ce-4851-abe3-990ac95937c2",
+    "slug": "nba-2026-07-05-bkn-mil-24855",
+    "title": "Brooklyn Nets vs. Milwaukee Bucks",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-05T19:00:00.000Z",
+    "endsAt": "2026-07-05T22:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c3df2ecae074b209913679276d432d09-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-05/bkn-mil",
+    "feeds": [
+      {
+        "id": "a8bf3f95-84b9-407a-b7af-ad7c67306f4f",
+        "sourceId": null,
+        "label": "ESPN+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-05/bkn-mil"
+      }
+    ]
+  },
+  {
     "id": "00ee4b8c-ba3a-43b4-bd6b-f0bbf3367d20",
     "slug": "mlb-2026-07-05-det-tex-24937",
     "title": "Detroit Tigers vs. Texas Rangers",
@@ -491,6 +512,27 @@
         "sourceId": null,
         "label": "TV Azteca (720p)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-05/mex-eng/tv-azteca-720p"
+      }
+    ]
+  },
+  {
+    "id": "ff6031c7-127a-4cf1-bc73-beaca9b38355",
+    "slug": "mlb-2026-07-05-bos-laa-24944",
+    "title": "Boston Red Sox vs. Los Angeles Angels",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-06T01:30:00.000Z",
+    "endsAt": "2026-07-06T05:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/87ad207b96feaa42365f1190bfd6ddfc-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/bos-laa",
+    "feeds": [
+      {
+        "id": "715e2b8b-809e-45b3-935e-7628902ddb67",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-05/bos-laa"
       }
     ]
   },
