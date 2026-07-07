@@ -762,6 +762,33 @@
     ]
   },
   {
+    "id": "638dfbbc-8d29-48fc-a7ad-2bb3b4281df9",
+    "slug": "tour-de-france-2026-stage-7-24888",
+    "title": "Tour de France- Stage 7",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-10T11:00:00.000Z",
+    "endsAt": "2026-07-10T16:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/17049c40612f2598ca006e6575be14f6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-7",
+    "feeds": [
+      {
+        "id": "4e99405f-4fe2-4551-8993-8008a112114e",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-7"
+      },
+      {
+        "id": "280cff06-f29f-4ebc-8fe0-fb4005ba2b5d",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-7/peacock"
+      }
+    ]
+  },
+  {
     "id": "666f0bae-01d1-4054-8833-93d9c9a13a66",
     "slug": "cfl-2026-07-10-tor-wpg-24970",
     "title": "Toronto Argonauts vs. Winnipeg Blue Bombers",
