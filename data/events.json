@@ -240,6 +240,27 @@
     ]
   },
   {
+    "id": "57f05e73-28b1-4307-9a75-16fde213b5c8",
+    "slug": "afl-2026-07-10-coll-nmfc-25001",
+    "title": "Collingwood vs. North Melbourne",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-10T09:40:00.000Z",
+    "endsAt": "2026-07-10T12:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c522bc40a1946b6fa76ee4eea1d64266-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-10/coll-nmfc",
+    "feeds": [
+      {
+        "id": "6ffdd22d-6c2a-4734-aa91-44fa30249772",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-10/coll-nmfc"
+      }
+    ]
+  },
+  {
     "id": "666f0bae-01d1-4054-8833-93d9c9a13a66",
     "slug": "cfl-2026-07-10-tor-wpg-24970",
     "title": "Toronto Argonauts vs. Winnipeg Blue Bombers",
