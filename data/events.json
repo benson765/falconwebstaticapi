@@ -513,6 +513,27 @@
     ]
   },
   {
+    "id": "0d8f404f-410f-4fa9-88c6-73d88a2f2f6e",
+    "slug": "mlb-2026-07-07-col-lad-25050",
+    "title": "Colorado Rockies vs. Los Angeles Dodgers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T02:10:00.000Z",
+    "endsAt": "2026-07-08T05:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/618379565ab1c203760affc29a86d3f5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/col-lad",
+    "feeds": [
+      {
+        "id": "5f0b5397-f615-4353-87e5-56d3b6a6345a",
+        "sourceId": null,
+        "label": "Sportsnet LA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/col-lad"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
