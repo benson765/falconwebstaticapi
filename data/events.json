@@ -471,6 +471,27 @@
     ]
   },
   {
+    "id": "a9cf7f37-5bd6-4dc6-842f-d0131badd4ab",
+    "slug": "mlb-2026-07-07-ari-sd-25048",
+    "title": "Arizona Diamondbacks vs. San Diego Padres",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T01:40:00.000Z",
+    "endsAt": "2026-07-08T05:10:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/761237f97fdca31f3640edd0194b10e2-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/ari-sd",
+    "feeds": [
+      {
+        "id": "41ea9eb7-2298-466e-9941-845ffbb67b3e",
+        "sourceId": null,
+        "label": "Padres.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/ari-sd"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
