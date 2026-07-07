@@ -366,6 +366,27 @@
     ]
   },
   {
+    "id": "0adef845-22bb-4258-976c-23d8dc09e0a6",
+    "slug": "mlb-2026-07-07-phi-cin-25043",
+    "title": "Philadelphia Phillies vs. Cincinnati Reds",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T23:10:00.000Z",
+    "endsAt": "2026-07-08T02:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/745bda568ef00a8df0c5c65d3b518c2e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/phi-cin",
+    "feeds": [
+      {
+        "id": "c5675eb9-57e4-47e1-b6a6-a8ec019d1f18",
+        "sourceId": null,
+        "label": "Reds.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/phi-cin"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
