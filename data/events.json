@@ -345,6 +345,27 @@
     ]
   },
   {
+    "id": "2c056705-dc99-41e6-a936-404718dbab44",
+    "slug": "mlb-2026-07-07-kc-nym-25042",
+    "title": "Kansas City Royals vs. New York Mets",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-07T23:10:00.000Z",
+    "endsAt": "2026-07-08T02:40:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/92fbb923a215142e2bde355932a3db49-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/kc-nym",
+    "feeds": [
+      {
+        "id": "f5abe08f-0961-424b-bc3d-a0b9b61c8857",
+        "sourceId": null,
+        "label": "SNY",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/kc-nym"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
