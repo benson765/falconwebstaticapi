@@ -645,6 +645,27 @@
     ]
   },
   {
+    "id": "6f9fe6c1-df31-40a4-b2dc-bfe4094a82d2",
+    "slug": "nrl-2026-07-08-que-new-25009",
+    "title": "Queensland vs. New South Wales",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T10:05:00.000Z",
+    "endsAt": "2026-07-08T12:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/d07046b4882858838c5b6ded73c3947d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-08/que-new",
+    "feeds": [
+      {
+        "id": "1104e194-d844-4f4f-a75f-d5eccb641f9b",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-08/que-new"
+      }
+    ]
+  },
+  {
     "id": "fb18d3e3-1b23-4614-9bab-d23011659a2f",
     "slug": "tour-de-france-2026-stage-5-24886",
     "title": "Tour de France- Stage 5",
