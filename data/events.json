@@ -69,6 +69,27 @@
     ]
   },
   {
+    "id": "f4b9cd72-0a71-4135-8219-4edb87a7fd81",
+    "slug": "wimbledon-2026-07-07-pegula-gauff-25054",
+    "title": "Jessica Pegula vs. Coco Gauff",
+    "category": "Tennis",
+    "status": "live",
+    "startsAt": "2026-07-07T12:30:00.000Z",
+    "endsAt": "2026-07-07T17:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/c64f05d082fae3027fc416f0b1ff3f53-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-07/pegula-gauff",
+    "feeds": [
+      {
+        "id": "16284f15-8655-4080-a6e7-3d726758b3cc",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wimbledon/2026-07-07/pegula-gauff"
+      }
+    ]
+  },
+  {
     "id": "93b49bda-1ab3-4fc6-b1a8-17a431e52f03",
     "slug": "wc-2026-07-07-arg-egy-24955",
     "title": "Argentina vs. Egypt",
