@@ -280,5 +280,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-11/par-vie"
       }
     ]
+  },
+  {
+    "id": "9147144f-3244-4063-8793-59849d17e078",
+    "slug": "cfl-2026-07-11-cgy-mtl-24973",
+    "title": "Calgary Stampeders vs. Montreal Alouettes",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T23:00:00.000Z",
+    "endsAt": "2026-07-12T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/aff4cc748d23ac173cb364b5a6d6ecd9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-11/cgy-mtl",
+    "feeds": [
+      {
+        "id": "bce145f9-efda-48e6-8c9a-06f4deeb6e65",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-11/cgy-mtl"
+      }
+    ]
   }
 ]
