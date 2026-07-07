@@ -645,6 +645,33 @@
     ]
   },
   {
+    "id": "fb18d3e3-1b23-4614-9bab-d23011659a2f",
+    "slug": "tour-de-france-2026-stage-5-24886",
+    "title": "Tour de France- Stage 5",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T11:30:00.000Z",
+    "endsAt": "2026-07-08T16:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/17049c40612f2598ca006e6575be14f6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-5",
+    "feeds": [
+      {
+        "id": "31761f54-5956-44cf-b942-7d0bbcb0e969",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-5"
+      },
+      {
+        "id": "d507fdc0-3657-472b-98d6-b35c4f756e5a",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-5/peacock"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
