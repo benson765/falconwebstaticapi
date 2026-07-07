@@ -343,5 +343,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-12/pan-rhe"
       }
     ]
+  },
+  {
+    "id": "a876db61-4f04-4ed9-9e0b-8924b54c779f",
+    "slug": "cfl-2026-07-12-ham-ssk-24976",
+    "title": "Hamilton Tiger-Cats vs. Saskatchewan Roughriders",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T23:00:00.000Z",
+    "endsAt": "2026-07-13T02:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/412e2ee2a90ac35c0725c1b3bf1603a9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-12/ham-ssk",
+    "feeds": [
+      {
+        "id": "fb3745a2-f0a7-4ec6-b81a-1d9afb4da277",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-12/ham-ssk"
+      }
+    ]
   }
 ]
