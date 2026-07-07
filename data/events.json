@@ -301,5 +301,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-11/cgy-mtl"
       }
     ]
+  },
+  {
+    "id": "58790f67-f48c-4012-bde6-d49e6e0b775b",
+    "slug": "afle-2026-07-12-fir-ber-24985",
+    "title": "Firenze Red Lions vs. Berlin Thunder",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T12:00:00.000Z",
+    "endsAt": "2026-07-12T15:30:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/3e984289ce77910847ca82c7b1c20b18-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-12/fir-ber",
+    "feeds": [
+      {
+        "id": "7c116a92-0aaa-4f5f-9cf5-d0d93752c5f8",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-12/fir-ber"
+      }
+    ]
   }
 ]
