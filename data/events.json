@@ -1446,6 +1446,27 @@
     ]
   },
   {
+    "id": "f2ff5cd2-03ae-4f7a-8c44-d971d39b2e47",
+    "slug": "aew-collision-2026-07-11-25022",
+    "title": "AEW: Saturday Night Collision",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T00:00:00.000Z",
+    "endsAt": "2026-07-12T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/aew/collision/2026-07-11",
+    "feeds": [
+      {
+        "id": "9f20da10-f7ed-4a8f-92bc-78d968f41fda",
+        "sourceId": null,
+        "label": "TNT",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/aew/collision/2026-07-11"
+      }
+    ]
+  },
+  {
     "id": "4b65bfd4-c60f-49c5-8ff0-698c362a1154",
     "slug": "afl-2026-07-12-wb-wce-25006",
     "title": "Western Bulldogs vs. West Coast Eagles",
