@@ -450,6 +450,27 @@
     ]
   },
   {
+    "id": "1768f6c6-629f-41a9-8438-5974c235f5f4",
+    "slug": "mlb-2026-07-07-laa-tex-25047",
+    "title": "Los Angeles Angels vs. Texas Rangers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T00:05:00.000Z",
+    "endsAt": "2026-07-08T03:35:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/5fdf2ed0dd57359683b0214fba614482-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/laa-tex",
+    "feeds": [
+      {
+        "id": "1a507dac-29cf-4852-a31e-6bf959a374d2",
+        "sourceId": null,
+        "label": "Rangers Sports Network",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-07/laa-tex"
+      }
+    ]
+  },
+  {
     "id": "bc0af38d-f46f-42f8-93fd-02345050edd4",
     "slug": "afl-2026-07-09-fre-syd-25000",
     "title": "Fremantle vs. Sydney Swans",
