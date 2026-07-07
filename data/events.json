@@ -645,6 +645,27 @@
     ]
   },
   {
+    "id": "b40c116a-345e-4ac6-8f90-bf4b34ced31f",
+    "slug": "wwe-nxt-2026-07-07-25018",
+    "title": "WWE: NXT",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T00:00:00.000Z",
+    "endsAt": "2026-07-08T03:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/nxt/2026-07-07",
+    "feeds": [
+      {
+        "id": "c2618583-26b3-4cb0-8fa0-5d580b6c0962",
+        "sourceId": null,
+        "label": "CW",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/nxt/2026-07-07"
+      }
+    ]
+  },
+  {
     "id": "1768f6c6-629f-41a9-8438-5974c235f5f4",
     "slug": "mlb-2026-07-07-laa-tex-25047",
     "title": "Los Angeles Angels vs. Texas Rangers",
@@ -941,6 +962,27 @@
         "sourceId": null,
         "label": "Peacock",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france/2026/stage-5/peacock"
+      }
+    ]
+  },
+  {
+    "id": "b969e20d-a7a1-41ca-b86e-e72064edceb2",
+    "slug": "womensvnl-2026-07-08-chi-can-25072",
+    "title": "China vs. Canada",
+    "category": "Volleyball",
+    "status": "upcoming",
+    "startsAt": "2026-07-08T12:30:00.000Z",
+    "endsAt": "2026-07-08T16:00:00.000Z",
+    "thumbnailUrl": "https://totalimgcdn.pages.dev/images/4837819093332bec37772603f750cdee-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/womensvnl/2026-07-08/chi-can",
+    "feeds": [
+      {
+        "id": "52039ca8-f277-4375-af60-21eafdb8a226",
+        "sourceId": null,
+        "label": "Women's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/womensvnl/2026-07-08/chi-can"
       }
     ]
   },
