@@ -81,6 +81,27 @@
     ]
   },
   {
+    "id": "f6cf4cc7-18e1-47c9-a9b4-7ada881588ee",
+    "slug": "cfl-2026-07-11-cgy-mtl-24973",
+    "title": "Calgary Stampeders vs. Montreal Alouettes",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-11T23:00:00.000Z",
+    "endsAt": "2026-07-12T02:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/aff4cc748d23ac173cb364b5a6d6ecd9-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-11/cgy-mtl",
+    "feeds": [
+      {
+        "id": "8eac74ee-2b02-4cbb-9bcb-85b81439d221",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-11/cgy-mtl"
+      }
+    ]
+  },
+  {
     "id": "f611ddec-4b5e-4cc0-808c-dbd7b892df52",
     "slug": "wc-2026-07-11-arg-sui-25222",
     "title": "Argentina vs. Switzerland",
