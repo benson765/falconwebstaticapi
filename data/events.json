@@ -375,6 +375,27 @@
     ]
   },
   {
+    "id": "b131a94f-a9b3-4ff8-a0a6-eccdb78959ee",
+    "slug": "mlb-2026-07-11-tor-sd-25300",
+    "title": "Toronto Blue Jays vs. San Diego Padres",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T00:40:00.000Z",
+    "endsAt": "2026-07-12T04:10:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/c398b6c03381f48a05b1a57a9d0a9df2-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/tor-sd",
+    "feeds": [
+      {
+        "id": "b15e30fb-3609-43c7-b158-7fbc1ef4ebe6",
+        "sourceId": null,
+        "label": "Padres.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/tor-sd"
+      }
+    ]
+  },
+  {
     "id": "f611ddec-4b5e-4cc0-808c-dbd7b892df52",
     "slug": "wc-2026-07-11-arg-sui-25222",
     "title": "Argentina vs. Switzerland",
@@ -452,6 +473,27 @@
         "sourceId": null,
         "label": "FUSSBALL.TV 4K (Tactical) (No Commentary) (HEVC)",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wc/2026-07-11/arg-sui/fussballtv-4k-tactical-no-commentary-hevc-de"
+      }
+    ]
+  },
+  {
+    "id": "cbcbf4cd-7040-4ac2-a0b5-e3924c0892a2",
+    "slug": "mlb-2026-07-11-ari-lad-25301",
+    "title": "Arizona Diamondbacks vs. Los Angeles Dodgers",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T01:10:00.000Z",
+    "endsAt": "2026-07-12T04:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/9d29ee39c4790f7d81399b1c95222054-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/ari-lad",
+    "feeds": [
+      {
+        "id": "cdbd8a38-bee9-4f3f-bfb8-8b641653aa44",
+        "sourceId": null,
+        "label": "Sportsnet LA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-11/ari-lad"
       }
     ]
   },
