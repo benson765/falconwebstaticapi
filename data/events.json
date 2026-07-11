@@ -567,6 +567,27 @@
     ]
   },
   {
+    "id": "56efd967-f59a-40dd-a156-8ba142f59327",
+    "slug": "aew-collision-2026-07-11-25022",
+    "title": "AEW: Saturday Night Collision",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-12T00:00:00.000Z",
+    "endsAt": "2026-07-12T03:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/aew/collision/2026-07-11",
+    "feeds": [
+      {
+        "id": "d4bd063e-c503-4b06-9a10-c31e8066c0db",
+        "sourceId": null,
+        "label": "TNT",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/aew/collision/2026-07-11"
+      }
+    ]
+  },
+  {
     "id": "b131a94f-a9b3-4ff8-a0a6-eccdb78959ee",
     "slug": "mlb-2026-07-11-tor-sd-25300",
     "title": "Toronto Blue Jays vs. San Diego Padres",
