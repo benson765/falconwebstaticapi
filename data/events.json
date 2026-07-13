@@ -1251,6 +1251,57 @@
     ]
   },
   {
+    "id": "9576d47e-e5fd-48d2-a06d-a49ca8981f15",
+    "slug": "f1-2026-belgium-race-25101",
+    "title": "Belgian Grand Prix - Race",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T13:00:00.000Z",
+    "endsAt": "2026-07-19T16:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/3c628f701a4e5c588ca5a8575b6dbec5-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race",
+    "feeds": [
+      {
+        "id": "a58c7218-daff-4f99-810a-933e76c9b47c",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race"
+      },
+      {
+        "id": "8a8e20f5-8a83-4d57-9b25-5d7d630aeecf",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race/f1tv"
+      },
+      {
+        "id": "a7d562e5-5b0b-4850-bfa8-75943d79e8f4",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race/dazn-es"
+      },
+      {
+        "id": "a79d67bc-e86b-4b56-8479-e3bbecb0422d",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race/sky-sport-f1-de"
+      },
+      {
+        "id": "43b8712e-0a79-4280-9d47-bc54d915efe4",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race/v-sport-motor-sv"
+      },
+      {
+        "id": "f37e1cfb-4d0a-4fd2-a8bc-784ea1669398",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/race/viaplay-nl"
+      }
+    ]
+  },
+  {
     "id": "a92ee116-9e2a-47e0-bad4-5516fee3e812",
     "slug": "cfl-2026-07-19-wpg-ott-25394",
     "title": "Winnipeg Blue Bombers vs. Ottawa RedBlacks",
