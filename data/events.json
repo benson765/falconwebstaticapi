@@ -1,5 +1,26 @@
 [
   {
+    "id": "39b82800-cc59-45db-8f5f-8de1a8f34e23",
+    "slug": "afl-2026-07-16-geel-stk-25413",
+    "title": "Geelong Cats vs. St Kilda",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-16T09:30:00.000Z",
+    "endsAt": "2026-07-16T12:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/7d1b587b25869de4a685e435da1d3db0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-16/geel-stk",
+    "feeds": [
+      {
+        "id": "0b9c4e58-3813-4509-a48d-5c4fd5c4fc19",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-16/geel-stk"
+      }
+    ]
+  },
+  {
     "id": "837cf14c-fd7d-4d22-90e5-4933045b6eb9",
     "slug": "cfl-2026-07-17-bc-edm-25391",
     "title": "BC Lions vs. Edmonton Elks",
@@ -143,6 +164,27 @@
         "sourceId": null,
         "label": "AFLE+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-19/fir-pan"
+      }
+    ]
+  },
+  {
+    "id": "a92ee116-9e2a-47e0-bad4-5516fee3e812",
+    "slug": "cfl-2026-07-19-wpg-ott-25394",
+    "title": "Winnipeg Blue Bombers vs. Ottawa RedBlacks",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T23:00:00.000Z",
+    "endsAt": "2026-07-20T02:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/91b8728d97af1889425a68809d2afe35-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-19/wpg-ott",
+    "feeds": [
+      {
+        "id": "a50124fc-96f8-486a-8b79-682fa65787aa",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-19/wpg-ott"
       }
     ]
   }
