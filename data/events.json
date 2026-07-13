@@ -126,6 +126,27 @@
     ]
   },
   {
+    "id": "23fe9564-5efd-480d-b61c-a4dfb5f1450f",
+    "slug": "wwe-raw-2026-07-13-25430",
+    "title": "WWE: Monday Night RAW",
+    "category": "Wrestling",
+    "status": "upcoming",
+    "startsAt": "2026-07-14T00:00:00.000Z",
+    "endsAt": "2026-07-14T03:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/raw/2026-07-13",
+    "feeds": [
+      {
+        "id": "4279b270-5494-41bb-be57-43472257d130",
+        "sourceId": null,
+        "label": "Netflix",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/wwe/raw/2026-07-13"
+      }
+    ]
+  },
+  {
     "id": "1eca6351-4795-4837-8785-32e860b53820",
     "slug": "nba-2026-07-13-chi-utah-25330",
     "title": "Chicago Bulls vs. Utah Jazz",
@@ -1287,6 +1308,27 @@
     ]
   },
   {
+    "id": "925899a9-4db0-4a17-9bdb-5958fe31675a",
+    "slug": "nrl-2026-07-19-gol-man-25428",
+    "title": "Titans vs. Sea Eagles",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T04:00:00.000Z",
+    "endsAt": "2026-07-19T06:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/98456bf5192251379c126ff1aaf78bdf-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-19/gol-man",
+    "feeds": [
+      {
+        "id": "b3fc7271-5029-4780-95f5-0eff6557f372",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-19/gol-man"
+      }
+    ]
+  },
+  {
     "id": "c3b1d045-8ecf-45e3-a024-5b53c40fc1ca",
     "slug": "afl-2026-07-19-gcfc-wb-25420",
     "title": "Gold Coast SUNS vs. Western Bulldogs",
@@ -1304,6 +1346,27 @@
         "sourceId": null,
         "label": "Fox Sports 503",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/gcfc-wb"
+      }
+    ]
+  },
+  {
+    "id": "df940c2b-bbcd-47ee-85a3-2bb9f34f5039",
+    "slug": "nrl-2026-07-19-dol-nor-25429",
+    "title": "Dolphins vs. Cowboys",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T06:05:00.000Z",
+    "endsAt": "2026-07-19T08:35:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/81579ac8c27fde2020a7dca36099f135-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-19/dol-nor",
+    "feeds": [
+      {
+        "id": "8ed0ffcb-4e7e-4dee-bc93-893633837e60",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-19/dol-nor"
       }
     ]
   },
