@@ -486,6 +486,48 @@
     ]
   },
   {
+    "id": "a1583e50-9896-4db3-9691-ba9b0ffe3851",
+    "slug": "mls-2026-07-16-stl-skc-25409",
+    "title": "St. Louis CITY SC vs. Sporting Kansas City",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T00:30:00.000Z",
+    "endsAt": "2026-07-17T03:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/1d9482c6be17352a7f5ddc92e403152b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/stl-skc",
+    "feeds": [
+      {
+        "id": "c466474c-4fd7-4f3a-8156-de67be4260b7",
+        "sourceId": null,
+        "label": "Apple TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/stl-skc"
+      }
+    ]
+  },
+  {
+    "id": "f40e1311-41fb-4f98-bfe7-d7d0fc8c2645",
+    "slug": "mls-2026-07-16-sea-por-25410",
+    "title": "Seattle Sounders FC vs. Portland Timbers",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T02:30:00.000Z",
+    "endsAt": "2026-07-17T05:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbae7ce912fdabce80dd189ad9f2fa19-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/sea-por",
+    "feeds": [
+      {
+        "id": "dcf05282-094f-4583-9567-299fb305d4cb",
+        "sourceId": null,
+        "label": "Apple TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/sea-por"
+      }
+    ]
+  },
+  {
     "id": "23fd3f5b-2487-4e15-b59d-5e853731425a",
     "slug": "afl-2026-07-17-syd-adel-25414",
     "title": "Sydney Swans vs. Adelaide Crows",
@@ -503,6 +545,27 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-17/syd-adel"
+      }
+    ]
+  },
+  {
+    "id": "8168a23d-ff98-4993-a721-679280b6077f",
+    "slug": "mls-2026-07-17-nsh-atl-25411",
+    "title": "Nashville SC vs. Atlanta United FC",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T00:10:00.000Z",
+    "endsAt": "2026-07-18T03:10:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/41e62b35f23efff2073a35d87e54a7b8-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/nsh-atl",
+    "feeds": [
+      {
+        "id": "fb544ede-2f44-4047-86ff-753834da0895",
+        "sourceId": null,
+        "label": "Apple TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/nsh-atl"
       }
     ]
   },
