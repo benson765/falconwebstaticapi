@@ -103,5 +103,47 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-18/mtl-cgy"
       }
     ]
+  },
+  {
+    "id": "e5be8415-fa9c-4386-94eb-15d025dd3e67",
+    "slug": "cfl-2026-07-18-tor-ham-25393",
+    "title": "Toronto Argonauts vs. Hamilton Tiger-Cats",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T23:30:00.000Z",
+    "endsAt": "2026-07-19T03:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/99674b1dd4533b6576aebb2fd1dae026-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-18/tor-ham",
+    "feeds": [
+      {
+        "id": "d66978f2-9055-4ebe-801a-d97111f666e4",
+        "sourceId": null,
+        "label": "CFL+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-18/tor-ham"
+      }
+    ]
+  },
+  {
+    "id": "75e85c10-bb29-4437-bd92-722b15dc1f6c",
+    "slug": "afle-2026-07-19-fir-pan-25404",
+    "title": "Firenze Red Lions vs. Panthers Wroclaw",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T13:00:00.000Z",
+    "endsAt": "2026-07-19T16:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/aca54ebb11b43fd739e7ce6457dd03e4-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-19/fir-pan",
+    "feeds": [
+      {
+        "id": "8ea2cc1d-5806-4b4a-8b8d-8b5a3b1f9047",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-19/fir-pan"
+      }
+    ]
   }
 ]
