@@ -21,6 +21,27 @@
     ]
   },
   {
+    "id": "23fd3f5b-2487-4e15-b59d-5e853731425a",
+    "slug": "afl-2026-07-17-syd-adel-25414",
+    "title": "Sydney Swans vs. Adelaide Crows",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T09:40:00.000Z",
+    "endsAt": "2026-07-17T12:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/67cb35de4f48dce49ec5b68b3c7c8416-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-17/syd-adel",
+    "feeds": [
+      {
+        "id": "113f7ef2-d4cb-4667-9cef-2869b47144d6",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-17/syd-adel"
+      }
+    ]
+  },
+  {
     "id": "837cf14c-fd7d-4d22-90e5-4933045b6eb9",
     "slug": "cfl-2026-07-17-bc-edm-25391",
     "title": "BC Lions vs. Edmonton Elks",
@@ -38,6 +59,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-17/bc-edm"
+      }
+    ]
+  },
+  {
+    "id": "f0bd37bc-dc45-4114-950d-42e783c453a5",
+    "slug": "afl-2026-07-18-port-fre-25415",
+    "title": "Port Adelaide vs. Fremantle",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T03:15:00.000Z",
+    "endsAt": "2026-07-18T06:15:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/42155aa4026e119401863a03bb0ea63b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/port-fre",
+    "feeds": [
+      {
+        "id": "61d90f28-062f-4029-be0e-1aa994798671",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/port-fre"
       }
     ]
   },
