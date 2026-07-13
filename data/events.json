@@ -657,6 +657,108 @@
     ]
   },
   {
+    "id": "de6a4add-c8c1-4d08-8847-8e9b60d82dac",
+    "slug": "f1-2026-belgium-fp1-25073",
+    "title": "Belgian Grand Prix - Practice 1",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T11:30:00.000Z",
+    "endsAt": "2026-07-17T13:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/44b784587bb418bc38f42e69acc35b04-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1",
+    "feeds": [
+      {
+        "id": "1973d722-b0d8-4503-b48a-25ea79255c47",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1"
+      },
+      {
+        "id": "60d5ef2c-ba9b-4de5-a076-cdd5122be7f4",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/f1tv"
+      },
+      {
+        "id": "f0a02828-a46f-4b64-81a4-23ce3dc0e9a5",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/dazn-es"
+      },
+      {
+        "id": "c9469c6b-2d5f-4860-8e67-3c999473af42",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/sky-sport-f1-de"
+      },
+      {
+        "id": "afe84421-046e-4a5c-ab19-0ff77f8e9b33",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/v-sport-motor-sv"
+      },
+      {
+        "id": "df308421-77f5-4e16-84ca-7368c1380835",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/viaplay-nl"
+      }
+    ]
+  },
+  {
+    "id": "ab391506-7708-4034-84cc-7bd714b4c2c2",
+    "slug": "f1-2026-belgium-fp2-25080",
+    "title": "Belgian Grand Prix - Practice 2",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T15:00:00.000Z",
+    "endsAt": "2026-07-17T17:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2e7a8e4b7552cfe206d49b6f8158b3fb-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2",
+    "feeds": [
+      {
+        "id": "a4c0bf82-4530-45a9-b249-ac9be87ed13f",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2"
+      },
+      {
+        "id": "d909556f-8845-41f8-93b0-143923bb7d13",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/f1tv"
+      },
+      {
+        "id": "65bbf0c3-cc2f-4093-9de1-72641902adf1",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/dazn-es"
+      },
+      {
+        "id": "2eec8ed5-33f2-4f1d-93e1-f135d532c397",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/sky-sport-f1-de"
+      },
+      {
+        "id": "347a2d58-d6c4-4f9c-96e5-8f33a1af7dfb",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/v-sport-motor-sv"
+      },
+      {
+        "id": "b233246f-2fdb-4574-8e41-78d5d6e0b068",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/viaplay-nl"
+      }
+    ]
+  },
+  {
     "id": "8168a23d-ff98-4993-a721-679280b6077f",
     "slug": "mls-2026-07-17-nsh-atl-25411",
     "title": "Nashville SC vs. Atlanta United FC",
@@ -804,6 +906,57 @@
     ]
   },
   {
+    "id": "99968554-95e6-4fc5-b6f3-9394e2bcb442",
+    "slug": "f1-2026-belgium-fp3-25087",
+    "title": "Belgian Grand Prix - Practice 3",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T10:30:00.000Z",
+    "endsAt": "2026-07-18T12:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/0bc415ec26f68f7b7f9d364ebf4fe8ee-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3",
+    "feeds": [
+      {
+        "id": "854a053a-764c-4fdd-a266-9cefa223c97d",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3"
+      },
+      {
+        "id": "c4c800b8-585f-4910-b00e-5cdbf3e43b7d",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3/f1tv"
+      },
+      {
+        "id": "396f7b04-e599-4c29-81a9-d8ec7063ec66",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3/dazn-es"
+      },
+      {
+        "id": "25e333dd-8326-4d0b-a687-c25df050166a",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3/sky-sport-f1-de"
+      },
+      {
+        "id": "18305810-64db-41d4-968e-b777cc8b6ee8",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3/v-sport-motor-sv"
+      },
+      {
+        "id": "83cedfa3-171f-4916-9028-89e2e3b68b10",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp3/viaplay-nl"
+      }
+    ]
+  },
+  {
     "id": "75822aa9-7ea5-4011-9e50-d610412b4262",
     "slug": "tour-de-france-stage-14-25366",
     "title": "Tour de France - Stage 14",
@@ -848,6 +1001,57 @@
         "sourceId": null,
         "label": "AFLE+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/lon-par"
+      }
+    ]
+  },
+  {
+    "id": "7b395bfa-b7e3-453c-8ecc-a0669204b367",
+    "slug": "f1-2026-belgium-qualifying-25094",
+    "title": "Belgian Grand Prix - Qualifying",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T14:00:00.000Z",
+    "endsAt": "2026-07-18T16:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/c39175f1b6f5797ced0bbace0dbc6655-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying",
+    "feeds": [
+      {
+        "id": "ac860308-0865-4e7d-8677-049e7bc0dce3",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying"
+      },
+      {
+        "id": "01957a0b-8d6e-48cc-b1d8-1ad62dad62f5",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/f1tv"
+      },
+      {
+        "id": "4e9db596-7cd7-438d-a1bf-5a210e12e4b7",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/dazn-es"
+      },
+      {
+        "id": "ca0cc68c-2da4-42ed-88a1-958c0777d242",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/sky-sport-f1-de"
+      },
+      {
+        "id": "d9535aba-b1a4-4a48-86a5-b0d7ccda57dc",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/v-sport-motor-sv"
+      },
+      {
+        "id": "69ad34ba-62d2-4b24-9bc4-7768cbec2749",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/qualifying/viaplay-nl"
       }
     ]
   },
@@ -995,6 +1199,33 @@
         "sourceId": null,
         "label": "Fox Footy",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/ess-gws"
+      }
+    ]
+  },
+  {
+    "id": "a5c7c6c3-385b-4c8d-b3c8-9509b0a99cfc",
+    "slug": "tour-de-france-stage-15-25367",
+    "title": "Tour de France - Stage 15",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T10:45:00.000Z",
+    "endsAt": "2026-07-19T16:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-15",
+    "feeds": [
+      {
+        "id": "59329be0-e3fb-4b6e-ae7a-9d1655cd50a0",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-15"
+      },
+      {
+        "id": "45443104-4295-45b0-8319-389cad4fadab",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-15/peacock-en"
       }
     ]
   },
