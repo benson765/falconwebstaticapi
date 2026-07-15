@@ -21,6 +21,27 @@
     ]
   },
   {
+    "id": "4e509d97-c6b9-4659-aebb-6960aed85de6",
+    "slug": "mensvnl-2026-07-15-ukr-ira-25474",
+    "title": "Ukraine vs. Iran",
+    "category": "Volleyball",
+    "status": "live",
+    "startsAt": "2026-07-15T14:30:00.000Z",
+    "endsAt": "2026-07-15T18:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/69693244edaf25ffc04b55964551cdfc-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-15/ukr-ira",
+    "feeds": [
+      {
+        "id": "0859c7fd-517b-4c70-a7d5-620e6a7a6f5f",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-15/ukr-ira"
+      }
+    ]
+  },
+  {
     "id": "2cc54878-04f8-4715-9767-70b913334214",
     "slug": "wnba-2026-07-15-sea-chi-25468",
     "title": "Seattle Storm vs. Chicago Sky",
