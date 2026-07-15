@@ -226,5 +226,68 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-17/la-lafc"
       }
     ]
+  },
+  {
+    "id": "0770d70e-dd3b-408b-9e2b-d6e718dde536",
+    "slug": "afle-2026-07-18-lon-par-25398",
+    "title": "London Warriors vs. Paris Lights",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T11:00:00.000Z",
+    "endsAt": "2026-07-18T14:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b0435871b1ff9ae60d422eeccc37f9cd-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/lon-par",
+    "feeds": [
+      {
+        "id": "72b13858-30c7-4d22-8c7c-11a9652075e0",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/lon-par"
+      }
+    ]
+  },
+  {
+    "id": "e16f084d-7722-4c3e-ab65-780493df17d5",
+    "slug": "afle-2026-07-18-vie-rhe-25400",
+    "title": "Vienna Vikings vs. Rhein Fire",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T15:10:00.000Z",
+    "endsAt": "2026-07-18T18:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/3fe86218f313652c1d11d2bd8d15c37a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/vie-rhe",
+    "feeds": [
+      {
+        "id": "f7a86cb0-1e15-496c-b43e-4272aa8caf39",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/vie-rhe"
+      }
+    ]
+  },
+  {
+    "id": "3b4b0ede-13ac-479f-a8c2-7625c37c260b",
+    "slug": "afle-2026-07-18-alp-ber-25402",
+    "title": "Alpine Rams vs. Berlin Thunder",
+    "category": "American Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T15:10:00.000Z",
+    "endsAt": "2026-07-18T18:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/16c079da2ff12ef12e505376a3d5724f-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/alp-ber",
+    "feeds": [
+      {
+        "id": "8d7886c8-aab9-40d8-8734-d49fe9eb1eb8",
+        "sourceId": null,
+        "label": "AFLE+",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afle/2026-07-18/alp-ber"
+      }
+    ]
   }
 ]
