@@ -186,6 +186,27 @@
     ]
   },
   {
+    "id": "927489ab-b5cd-4c54-a93a-69c0feb0072a",
+    "slug": "nba-2026-07-15-phx-det-25441",
+    "title": "Phoenix Suns vs. Detroit Pistons",
+    "category": "Basketball",
+    "status": "upcoming",
+    "startsAt": "2026-07-15T22:00:00.000Z",
+    "endsAt": "2026-07-16T01:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/f38bda2e5b832011ad07c7ba104e35fe-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/phx-det",
+    "feeds": [
+      {
+        "id": "c9a6524b-c1ea-42e9-8409-6f23a30789a8",
+        "sourceId": null,
+        "label": "ESPNU",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-15/phx-det"
+      }
+    ]
+  },
+  {
     "id": "cb93931c-380d-4e5a-b36a-96a1ecd5adab",
     "slug": "afl-2026-07-16-geel-stk-25413",
     "title": "Geelong Cats vs. St Kilda",
