@@ -84,6 +84,27 @@
     ]
   },
   {
+    "id": "5b7e28c4-d84f-4450-b95d-24ef4c87040e",
+    "slug": "mensvnl-2026-07-15-bul-pol-25475",
+    "title": "Bulgaria vs. Poland",
+    "category": "Volleyball",
+    "status": "live",
+    "startsAt": "2026-07-15T17:00:00.000Z",
+    "endsAt": "2026-07-15T20:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cadc3ed61f2b986e41c7e57e88dbd27b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-15/bul-pol",
+    "feeds": [
+      {
+        "id": "b93e642c-57de-4639-b0d8-2f3d1c705237",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-15/bul-pol"
+      }
+    ]
+  },
+  {
     "id": "f9bbefa0-3980-4ca2-b10d-bd469ba2527a",
     "slug": "wc-2026-07-15-eng-arg-25449",
     "title": "England vs. Argentina",
