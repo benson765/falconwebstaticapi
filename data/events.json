@@ -249,6 +249,27 @@
     ]
   },
   {
+    "id": "decd05e9-c668-448d-aaa2-744c2879af06",
+    "slug": "mensvnl-2026-07-15-fra-bra-25477",
+    "title": "France vs. Brazil",
+    "category": "Volleyball",
+    "status": "upcoming",
+    "startsAt": "2026-07-15T21:00:00.000Z",
+    "endsAt": "2026-07-16T00:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/a6a0e44fa005c9a430e3f524366047e2-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-15/fra-bra",
+    "feeds": [
+      {
+        "id": "e7290c29-8cdf-4f9b-8e43-3939d1cc5a70",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-15/fra-bra"
+      }
+    ]
+  },
+  {
     "id": "6831673f-d711-4cf7-b872-b99dca9ee87f",
     "slug": "nba-2026-07-15-no-cle-25440",
     "title": "New Orleans Pelicans vs. Cleveland Cavaliers",
