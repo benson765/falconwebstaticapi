@@ -951,6 +951,48 @@
     ]
   },
   {
+    "id": "3d226af5-7885-4020-921f-7e332ad40eab",
+    "slug": "nrl-2026-07-18-new-st-25426",
+    "title": "Warriors vs. Dragons",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T07:35:00.000Z",
+    "endsAt": "2026-07-18T10:05:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/a7fc79cf3567e3ab33aab50ebfc576b6-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/new-st.",
+    "feeds": [
+      {
+        "id": "64c4c487-30d1-465c-8194-ead97b340e81",
+        "sourceId": null,
+        "label": "Fox League",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nrl/2026-07-18/new-st."
+      }
+    ]
+  },
+  {
+    "id": "5c2605c8-3e8a-4438-8017-0c2a93f0779f",
+    "slug": "nc-2026-07-18-aus-ita-25483",
+    "title": "Australia vs. Italy",
+    "category": "Rugby",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T08:10:00.000Z",
+    "endsAt": "2026-07-18T10:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b815a50aaea7f3fec5dec7fe211c0270-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/aus-ita",
+    "feeds": [
+      {
+        "id": "e43c899e-b609-4aed-8435-14f7b8ef4c17",
+        "sourceId": null,
+        "label": "Stan Sport",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nc/2026-07-18/aus-ita"
+      }
+    ]
+  },
+  {
     "id": "df046a62-fe04-4f99-85a6-0631e6adc336",
     "slug": "afl-2026-07-18-coll-carl-25417",
     "title": "Collingwood vs. Carlton",
