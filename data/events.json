@@ -333,6 +333,27 @@
     ]
   },
   {
+    "id": "7af5db5c-4039-46ad-bd14-c8aa5d007c42",
+    "slug": "afl-2026-07-18-wce-bl-25418",
+    "title": "West Coast Eagles vs. Brisbane Lions",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T10:10:00.000Z",
+    "endsAt": "2026-07-18T13:10:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/25771ef2e613d1b3c4b744f3b1952b30-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/wce-bl",
+    "feeds": [
+      {
+        "id": "6fcaca78-8617-428f-9ac4-4d9e3d648fdd",
+        "sourceId": null,
+        "label": "Fox Sports 503",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/wce-bl"
+      }
+    ]
+  },
+  {
     "id": "0770d70e-dd3b-408b-9e2b-d6e718dde536",
     "slug": "afle-2026-07-18-lon-par-25398",
     "title": "London Warriors vs. Paris Lights",
@@ -434,6 +455,27 @@
         "sourceId": null,
         "label": "CFL+",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/cfl/2026-07-18/tor-ham"
+      }
+    ]
+  },
+  {
+    "id": "3cc173d1-a040-4e04-bcbc-2c2de8d7103d",
+    "slug": "afl-2026-07-19-rich-haw-25419",
+    "title": "Richmond vs. Hawthorn",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T03:10:00.000Z",
+    "endsAt": "2026-07-19T06:10:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/8e5d05fbf8f85a6cfdff51955bcd8789-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/rich-haw",
+    "feeds": [
+      {
+        "id": "7395fbd9-5ce8-432a-816f-863bc621d2e2",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-19/rich-haw"
       }
     ]
   },
