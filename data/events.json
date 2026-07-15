@@ -100,5 +100,26 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/mtl-tor"
       }
     ]
+  },
+  {
+    "id": "89933288-3a3c-473d-a011-318427d1260b",
+    "slug": "mls-2026-07-16-chi-van-25408",
+    "title": "Chicago Fire FC vs. Vancouver Whitecaps",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T00:30:00.000Z",
+    "endsAt": "2026-07-17T03:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/131fc402a6fdb23c6282b3932235d04b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/chi-van",
+    "feeds": [
+      {
+        "id": "edf1909c-7bd3-4956-9ee9-a641d331678d",
+        "sourceId": null,
+        "label": "Apple TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mls/2026-07-16/chi-van"
+      }
+    ]
   }
 ]
