@@ -612,6 +612,33 @@
     ]
   },
   {
+    "id": "9de2f0e0-a5f4-49f4-83af-051bc5f800fc",
+    "slug": "tour-de-france-stage-13-25365",
+    "title": "Tour de France - Stage 13",
+    "category": "Miscellaneous",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T10:45:00.000Z",
+    "endsAt": "2026-07-17T16:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/cbedc10f47a07c614689bddaf7ebc587-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-13",
+    "feeds": [
+      {
+        "id": "1ed3db74-c9b8-4168-9fc4-a119024316e8",
+        "sourceId": null,
+        "label": "TNT Sports 1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-13"
+      },
+      {
+        "id": "e036182c-ed0c-4d5f-b633-69d58665071d",
+        "sourceId": null,
+        "label": "Peacock",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/tour-de-france---stage-13/peacock-en"
+      }
+    ]
+  },
+  {
     "id": "ba4b75e3-fcf2-48d2-b0f9-303116590eb1",
     "slug": "mls-2026-07-17-nsh-atl-25411",
     "title": "Nashville SC vs. Atlanta United FC",
