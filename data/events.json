@@ -639,6 +639,108 @@
     ]
   },
   {
+    "id": "0d58078e-6a2f-46bf-b2ea-0caba3306406",
+    "slug": "f1-2026-belgium-fp1-25073",
+    "title": "Belgian Grand Prix - Practice 1",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T11:30:00.000Z",
+    "endsAt": "2026-07-17T13:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/44b784587bb418bc38f42e69acc35b04-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1",
+    "feeds": [
+      {
+        "id": "23fe286d-8756-44fc-bc94-6ec234e7f7a1",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1"
+      },
+      {
+        "id": "ff9f2d14-b615-4397-8774-12b74d5f3a48",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/f1tv"
+      },
+      {
+        "id": "0f401e88-22f0-4753-8d1c-96e33f96f671",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/dazn-es"
+      },
+      {
+        "id": "b05ff05b-f6b5-4f22-b70e-947028126c8d",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/sky-sport-f1-de"
+      },
+      {
+        "id": "04049843-9f16-4048-a53c-0c14b62b43e4",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/v-sport-motor-sv"
+      },
+      {
+        "id": "bfff4ea4-7b52-4723-a3fc-bdb0ea783766",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp1/viaplay-nl"
+      }
+    ]
+  },
+  {
+    "id": "0ab97fae-122b-4356-98ad-f6ba15fa88d1",
+    "slug": "f1-2026-belgium-fp2-25080",
+    "title": "Belgian Grand Prix - Practice 2",
+    "category": "Motorsports",
+    "status": "upcoming",
+    "startsAt": "2026-07-17T15:00:00.000Z",
+    "endsAt": "2026-07-17T17:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2e7a8e4b7552cfe206d49b6f8158b3fb-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2",
+    "feeds": [
+      {
+        "id": "5f984df5-29bc-499f-a014-44a25b7db373",
+        "sourceId": null,
+        "label": "Sky Sport NZ",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2"
+      },
+      {
+        "id": "a166a44d-5a02-47bb-a8dc-a4c8636bd112",
+        "sourceId": null,
+        "label": "Apple TV (F1TV)",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/f1tv"
+      },
+      {
+        "id": "2a7ff7a6-7e79-4205-9e41-0578addcee1b",
+        "sourceId": null,
+        "label": "DAZN F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/dazn-es"
+      },
+      {
+        "id": "c98c1050-45e4-449c-9150-4d0553b89f46",
+        "sourceId": null,
+        "label": "Sky Sport F1",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/sky-sport-f1-de"
+      },
+      {
+        "id": "b692fdae-36ed-4a8c-8f7c-e2a12c164549",
+        "sourceId": null,
+        "label": "V Sport Motor",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/v-sport-motor-sv"
+      },
+      {
+        "id": "d66ece73-fef6-4738-a4f9-34350b628cef",
+        "sourceId": null,
+        "label": "Viaplay",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/f1/2026/belgium/fp2/viaplay-nl"
+      }
+    ]
+  },
+  {
     "id": "ba4b75e3-fcf2-48d2-b0f9-303116590eb1",
     "slug": "mls-2026-07-17-nsh-atl-25411",
     "title": "Nashville SC vs. Atlanta United FC",
