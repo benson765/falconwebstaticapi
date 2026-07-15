@@ -270,6 +270,48 @@
     ]
   },
   {
+    "id": "8815227e-e2b4-4cb9-b66f-16200499adec",
+    "slug": "afl-2026-07-18-port-fre-25415",
+    "title": "Port Adelaide vs. Fremantle",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T03:15:00.000Z",
+    "endsAt": "2026-07-18T06:15:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/42155aa4026e119401863a03bb0ea63b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/port-fre",
+    "feeds": [
+      {
+        "id": "c357b06a-dc2d-471f-aac5-f754f82588ec",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/port-fre"
+      }
+    ]
+  },
+  {
+    "id": "84023093-3347-49d4-a563-b532188dda97",
+    "slug": "afl-2026-07-18-nmfc-melb-25416",
+    "title": "North Melbourne vs. Melbourne",
+    "category": "Australian Football",
+    "status": "upcoming",
+    "startsAt": "2026-07-18T06:15:00.000Z",
+    "endsAt": "2026-07-18T09:15:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/532e0307eadcde3cc7494656b0fef47a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/nmfc-melb",
+    "feeds": [
+      {
+        "id": "9f2a8d78-dae0-403c-a035-3ffb24b6351b",
+        "sourceId": null,
+        "label": "Fox Footy",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/afl/2026-07-18/nmfc-melb"
+      }
+    ]
+  },
+  {
     "id": "0770d70e-dd3b-408b-9e2b-d6e718dde536",
     "slug": "afle-2026-07-18-lon-par-25398",
     "title": "London Warriors vs. Paris Lights",
