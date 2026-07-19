@@ -327,6 +327,48 @@
     ]
   },
   {
+    "id": "96ce856b-9674-4990-8fc6-9af32fa85af7",
+    "slug": "mlb-2026-07-19-cin-col-25633",
+    "title": "Cincinnati Reds vs. Colorado Rockies",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T19:10:00.000Z",
+    "endsAt": "2026-07-19T22:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/211386ed1b2ae03d01fa46064e8899e0-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/cin-col",
+    "feeds": [
+      {
+        "id": "c8efc6b0-a242-4cf2-a2af-3231615772ee",
+        "sourceId": null,
+        "label": "Rockies.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/cin-col"
+      }
+    ]
+  },
+  {
+    "id": "c8296b06-3b62-4030-979b-205a2aea2379",
+    "slug": "mlb-2026-07-19-wsh-ath-25634",
+    "title": "Washington Nationals vs. Athletics",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T20:05:00.000Z",
+    "endsAt": "2026-07-19T23:35:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/0a7b35d1f4ded84fcd21076c2dc39f08-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/wsh-ath",
+    "feeds": [
+      {
+        "id": "f988cabc-73bd-4998-8883-a25b7cf65f51",
+        "sourceId": null,
+        "label": "NBC Sports CA",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/wsh-ath"
+      }
+    ]
+  },
+  {
     "id": "b9cddc68-d8c5-4451-8d85-dd6f5a0bd4d3",
     "slug": "cfl-2026-07-19-wpg-ott-25394",
     "title": "Winnipeg Blue Bombers vs. Ottawa RedBlacks",
