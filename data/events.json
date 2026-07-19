@@ -1,68 +1,5 @@
 [
   {
-    "id": "23b532c6-856b-4090-a0f2-7dd22478bb4f",
-    "slug": "the-open-championship-round-4-25647",
-    "title": "The Open Championship - Round 4",
-    "category": "Golf",
-    "status": "live",
-    "startsAt": "2026-07-19T08:00:00.000Z",
-    "endsAt": "2026-07-19T18:00:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/8c1ee98d75c76acea5e47bc8047f4041-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/the-open-championship---round-4",
-    "feeds": [
-      {
-        "id": "145f1601-e534-4379-b946-42eb053220dc",
-        "sourceId": null,
-        "label": "Sky Sport 3 NZ",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/the-open-championship---round-4"
-      }
-    ]
-  },
-  {
-    "id": "94322144-90da-4a4e-b7ed-bdbebe5e1e24",
-    "slug": "odi-2026-07-19-eng-ind-25653",
-    "title": "England vs. India",
-    "category": "Cricket",
-    "status": "live",
-    "startsAt": "2026-07-19T10:00:00.000Z",
-    "endsAt": "2026-07-19T18:00:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/9e581346298958eaed148682aff7ab0a-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/odi/2026-07-19/eng-ind",
-    "feeds": [
-      {
-        "id": "27651ed1-9ac1-4466-b2b4-5e786b02d727",
-        "sourceId": null,
-        "label": "Sky Sport 2 NZ",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/odi/2026-07-19/eng-ind"
-      }
-    ]
-  },
-  {
-    "id": "b2c471bf-b2e4-4faa-95de-d12d6c286029",
-    "slug": "mensvnl-2026-07-19-ukr-ger-25642",
-    "title": "Ukraine vs. Germany",
-    "category": "Volleyball",
-    "status": "live",
-    "startsAt": "2026-07-19T14:30:00.000Z",
-    "endsAt": "2026-07-19T18:00:00.000Z",
-    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/a226bf40c0499d09f3a51f1bd95b2d21-thumbnail.jpg",
-    "isPopular": false,
-    "sortOrder": 0,
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-19/ukr-ger",
-    "feeds": [
-      {
-        "id": "8706b4ac-0c52-45cb-a1a3-0e51b22b4bf3",
-        "sourceId": null,
-        "label": "Men's VNL 2026",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-19/ukr-ger"
-      }
-    ]
-  },
-  {
     "id": "7b5ef6ad-8da1-4927-a637-3bcbfbc13318",
     "slug": "mlb-2026-07-19-chw-tor-25623",
     "title": "Chicago White Sox vs. Toronto Blue Jays",
@@ -151,7 +88,7 @@
     "slug": "mlb-2026-07-19-nym-phi-25625",
     "title": "New York Mets vs. Philadelphia Phillies",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-19T17:35:00.000Z",
     "endsAt": "2026-07-19T21:05:00.000Z",
     "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/d394e4f61515e10b48d37f904cc7fcfd-thumbnail.jpg",
@@ -172,7 +109,7 @@
     "slug": "mlb-2026-07-19-tb-bos-25626",
     "title": "Tampa Bay Rays vs. Boston Red Sox",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-19T17:35:00.000Z",
     "endsAt": "2026-07-19T21:05:00.000Z",
     "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/ac5dacb24d6c6379eda31fb68f53bfe4-thumbnail.jpg",
@@ -193,7 +130,7 @@
     "slug": "mlb-2026-07-19-tex-atl-25627",
     "title": "Texas Rangers vs. Atlanta Braves",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-19T17:35:00.000Z",
     "endsAt": "2026-07-19T21:05:00.000Z",
     "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/e9bf4d471e4b083dc5a19053f0e3a32d-thumbnail.jpg",
@@ -214,7 +151,7 @@
     "slug": "mlb-2026-07-19-pit-cle-25628",
     "title": "Pittsburgh Pirates vs. Cleveland Guardians",
     "category": "Baseball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-19T17:40:00.000Z",
     "endsAt": "2026-07-19T21:10:00.000Z",
     "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/fb2ad9138b214224ee16a23f0c1c09b3-thumbnail.jpg",
@@ -235,7 +172,7 @@
     "slug": "darts-2026-07-19-session-2-25649",
     "title": "World Matchplay Darts - Day 1 S2",
     "category": "Darts",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-19T18:00:00.000Z",
     "endsAt": "2026-07-19T22:00:00.000Z",
     "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/fd8d599bb1f33cd49b41461928a1938b-thumbnail.jpg",
@@ -256,7 +193,7 @@
     "slug": "mensvnl-2026-07-19-ser-slo-25644",
     "title": "Serbia vs. Slovenia",
     "category": "Volleyball",
-    "status": "upcoming",
+    "status": "live",
     "startsAt": "2026-07-19T18:00:00.000Z",
     "endsAt": "2026-07-19T21:30:00.000Z",
     "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/0d9a6abe43cc60c2c82d2f4725132c81-thumbnail.jpg",
@@ -743,6 +680,27 @@
         "sourceId": null,
         "label": "ESPN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-19/gs-mem"
+      }
+    ]
+  },
+  {
+    "id": "7e874fe4-5134-4501-b7d6-5e0164a94a13",
+    "slug": "mensvnl-2026-07-20-usa-pol-25646",
+    "title": "USA vs. Poland",
+    "category": "Volleyball",
+    "status": "upcoming",
+    "startsAt": "2026-07-20T01:00:00.000Z",
+    "endsAt": "2026-07-20T04:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/2d886a415d48b467f3633dab7f2d756a-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-20/usa-pol",
+    "feeds": [
+      {
+        "id": "1634154b-8c47-4cab-9f71-dc6f9e081b24",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-20/usa-pol"
       }
     ]
   },
