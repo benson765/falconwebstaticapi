@@ -84,6 +84,69 @@
     ]
   },
   {
+    "id": "101c7af5-4c42-46d4-96e3-cc170a39d176",
+    "slug": "mlb-2026-07-19-tex-atl-25627",
+    "title": "Texas Rangers vs. Atlanta Braves",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T17:35:00.000Z",
+    "endsAt": "2026-07-19T21:05:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/e9bf4d471e4b083dc5a19053f0e3a32d-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/tex-atl",
+    "feeds": [
+      {
+        "id": "3663025f-673f-439d-8d08-d9ffbc2631f2",
+        "sourceId": null,
+        "label": "BravesVision",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/tex-atl"
+      }
+    ]
+  },
+  {
+    "id": "56114f8c-784d-4ab6-b89d-b889844b8b2d",
+    "slug": "mlb-2026-07-19-pit-cle-25628",
+    "title": "Pittsburgh Pirates vs. Cleveland Guardians",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T17:40:00.000Z",
+    "endsAt": "2026-07-19T21:10:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/fb2ad9138b214224ee16a23f0c1c09b3-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/pit-cle",
+    "feeds": [
+      {
+        "id": "ec75e523-3085-4a8f-b1a4-9c080151dd00",
+        "sourceId": null,
+        "label": "CLEGuardians.TV",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/pit-cle"
+      }
+    ]
+  },
+  {
+    "id": "43b0378b-3c5f-41a1-ae24-94791d2ab7c4",
+    "slug": "mlb-2026-07-19-bal-hou-25629",
+    "title": "Baltimore Orioles vs. Houston Astros",
+    "category": "Baseball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T18:10:00.000Z",
+    "endsAt": "2026-07-19T21:40:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/33b5d868dcf7d6702f658327370ed5b7-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/bal-hou",
+    "feeds": [
+      {
+        "id": "d4e33bb4-21d5-4a79-9eb8-af27f5017372",
+        "sourceId": null,
+        "label": "Space City Home Network",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mlb/2026-07-19/bal-hou"
+      }
+    ]
+  },
+  {
     "id": "857428ac-491a-4485-9426-ff6deea782bd",
     "slug": "wc-2026-07-19-esp-arg-25553",
     "title": "Spain vs. Argentina",
