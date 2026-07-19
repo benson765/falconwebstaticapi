@@ -220,5 +220,47 @@
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-08-01/che-tot"
       }
     ]
+  },
+  {
+    "id": "e8dbb1b8-f523-4868-8e1e-38e8a6efae39",
+    "slug": "friendly-2026-08-08-tot-get-25611",
+    "title": "Tottenham Hotspur vs. Getafe",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-08-08T14:00:00.000Z",
+    "endsAt": "2026-08-08T16:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/387b2d19685adfb652eddcc99fe6cdc7-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-08-08/tot-get",
+    "feeds": [
+      {
+        "id": "fc269fb6-0bd8-4329-8fe1-a7d8bd1e2173",
+        "sourceId": null,
+        "label": "SPURSPLAY",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-08-08/tot-get"
+      }
+    ]
+  },
+  {
+    "id": "80e783b9-0790-46c3-ba5a-1abdce272270",
+    "slug": "friendly-2026-08-15-tot-tsg-25612",
+    "title": "Tottenham Hotspur vs. TSG Hoffenheim",
+    "category": "Football",
+    "status": "upcoming",
+    "startsAt": "2026-08-15T14:00:00.000Z",
+    "endsAt": "2026-08-15T16:00:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/b47b4f8644f65c01945329445ac31a4b-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-08-15/tot-tsg",
+    "feeds": [
+      {
+        "id": "d42d5994-b86c-4b72-89f2-ca8dab011a82",
+        "sourceId": null,
+        "label": "SPURSPLAY",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/friendly/2026-08-15/tot-tsg"
+      }
+    ]
   }
 ]
