@@ -126,6 +126,27 @@
     ]
   },
   {
+    "id": "de10b223-9b4d-4af6-9d89-0437854c5484",
+    "slug": "mensvnl-2026-07-19-chi-bra-25643",
+    "title": "China vs. Brazil",
+    "category": "Volleyball",
+    "status": "live",
+    "startsAt": "2026-07-19T17:00:00.000Z",
+    "endsAt": "2026-07-19T20:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/c33c6e9b5eacc2d9c723d65546d52cc7-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-19/chi-bra",
+    "feeds": [
+      {
+        "id": "9fc1f97b-a8d6-4296-823d-fe4d0c713eaa",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-19/chi-bra"
+      }
+    ]
+  },
+  {
     "id": "7ed52647-f6aa-4ec9-aed4-c7619dd793b1",
     "slug": "mlb-2026-07-19-nym-phi-25625",
     "title": "New York Mets vs. Philadelphia Phillies",
@@ -227,6 +248,27 @@
         "sourceId": null,
         "label": "Sky Sport 2 NZ",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/darts/2026-07-19/session-2"
+      }
+    ]
+  },
+  {
+    "id": "e96c4fda-6b28-438d-8eee-d427fd913d3a",
+    "slug": "mensvnl-2026-07-19-ser-slo-25644",
+    "title": "Serbia vs. Slovenia",
+    "category": "Volleyball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T18:00:00.000Z",
+    "endsAt": "2026-07-19T21:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/0d9a6abe43cc60c2c82d2f4725132c81-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-19/ser-slo",
+    "feeds": [
+      {
+        "id": "e17ab5eb-cd67-4575-a763-cb7477877b36",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-19/ser-slo"
       }
     ]
   },
@@ -575,6 +617,27 @@
         "sourceId": null,
         "label": "ESPN",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/nba/2026-07-19/bkn-okc"
+      }
+    ]
+  },
+  {
+    "id": "be38ba59-3301-43eb-92df-f70a87e9002d",
+    "slug": "mensvnl-2026-07-19-bul-fra-25645",
+    "title": "Bulgaria vs. France",
+    "category": "Volleyball",
+    "status": "upcoming",
+    "startsAt": "2026-07-19T21:00:00.000Z",
+    "endsAt": "2026-07-20T00:30:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/aede07d1abf67fd79628ddd58784b972-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-19/bul-fra",
+    "feeds": [
+      {
+        "id": "06f2fb26-d0ca-4651-adf3-ab55bdeece96",
+        "sourceId": null,
+        "label": "Men's VNL 2026",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/mensvnl/2026-07-19/bul-fra"
       }
     ]
   },
