@@ -13,9 +13,9 @@
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/247-south-park",
     "feeds": [
       {
-        "id": "6f16ae8e-2c60-4f59-bd33-b3ad5b29cba6",
+        "id": "legacy",
         "sourceId": null,
-        "label": "24/7 channel",
+        "label": "All Devices",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/247-south-park"
       }
     ]
