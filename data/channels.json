@@ -8,22 +8,28 @@
     "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/1",
     "feeds": [
       {
-        "id": "649bdd5c-c201-433f-b92f-09a94785fd00",
+        "id": "c551377e-084e-4d8a-93b0-915c4fc02cbe",
         "sourceId": null,
         "label": "Willow",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/1"
       },
       {
-        "id": "769b6fcc-deed-43e2-afb2-f9d8387abc63",
+        "id": "c80132d6-cbf2-4f71-ac4a-6e3b8e7577ed",
         "sourceId": null,
         "label": "Willow 2",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/2"
       },
       {
-        "id": "4b45bb34-4bcc-476b-b5c9-5457d68550bd",
+        "id": "66a2b6aa-22d3-43c6-a705-8e040eb371c3",
         "sourceId": null,
         "label": "Willow Sports",
         "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embed.st/embed/admin/admin-willow-cricket/3"
+      },
+      {
+        "id": "b5794410-6530-49ce-8c2b-f4f9a60a3731",
+        "sourceId": null,
+        "label": "TNT",
+        "embedUrl": "https://secureplayer.murgirkhamar.xyz/?id=channels_tnt1fhd"
       }
     ]
   },
