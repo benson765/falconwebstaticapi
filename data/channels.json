@@ -33,13 +33,13 @@
     "title": "The Cow",
     "category": "24/7",
     "thumbnailUrl": "https://api.ppv.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg",
-    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/247-cows",
+    "embedUrl": "https://cf-secure-player.pages.dev/?id=channels_tnt1fhd",
     "feeds": [
       {
-        "id": "legacy",
+        "id": "4a546bf9-072a-44e4-8626-faabd23c0a86",
         "sourceId": null,
         "label": "All Devices",
-        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/247-cows"
+        "embedUrl": "https://cf-secure-player.pages.dev/?id=channels_tnt1fhd"
       }
     ]
   }
