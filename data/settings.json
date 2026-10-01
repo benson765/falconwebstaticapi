@@ -1,5 +1,5 @@
 {
-  "maintenanceMode": false,
+  "maintenanceMode": true,
   "showCommunityLinks": false,
   "showMirrorLinks": true,
   "discordUrl": null,
