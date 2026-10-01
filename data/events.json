@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "aa672a04-9d43-4b80-b2d6-9c9441a501ec",
+    "slug": "uefa-nations-league-2026-10-01-den-por-29661",
+    "title": "Denmark vs. Portugal",
+    "category": "Football",
+    "status": "live",
+    "startsAt": "2026-10-01T18:45:00.000Z",
+    "endsAt": "2026-10-01T21:15:00.000Z",
+    "thumbnailUrl": "https://static.assetstorage.net/assets/thumb/c442103b88ba6a68c32968e6b390818e-thumbnail.jpg",
+    "isPopular": false,
+    "sortOrder": 0,
+    "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/uefa-nations-league/2026-10-01/den-por",
+    "feeds": [
+      {
+        "id": "9b4374f9-a0f9-46ba-a8d1-fd26d84c93a0",
+        "sourceId": null,
+        "label": "DAZN",
+        "embedUrl": "https://embeds.vendixxa.online/play?embed=https://embedindia.st/embed/uefa-nations-league/2026-10-01/den-por"
+      }
+    ]
+  }
+]
